@@ -1,0 +1,15 @@
+# Local configuration
+import_config.json
+
+# Google OAuth credentials and tokens
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv
+
+#IDEA
+*.idea

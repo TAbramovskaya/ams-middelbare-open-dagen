@@ -1,0 +1,4448 @@
+[
+    {
+        "data_name": "bindelmeer-college",
+        "name": "Bindelmeer College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/bindelmeer-college/index.html",
+        "school_website": "https://www.bindelmeercollege.nl/onze-school/open-avond-en-lesjesochtend",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bindelmeer+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/bindelmeer-college/",
+        "open_day_date": "17 november 2026",
+        "details": [
+            "Zuidoost (Dubbelink 1)",
+            "Lesjesmiddag voor groep 8 leerlingen, aanmelden via\n                          basisschool."
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-amsterdam-west",
+        "name": "Yuverta vmbo Amsterdam-West",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-amsterdam-west/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-west/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+Amsterdam-West%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-vmbo-amsterdam-west/",
+        "open_day_date": "19 november 2026",
+        "details": [
+            "Nieuw-West (Jan van Zutphenstraat 60)",
+            "19:00 -20:00 uur",
+            "Informatieavond. In een uur vertellen we\n                          ouders/leerlingen over de school. Aanmelden via de\n                          schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "kopklas-amsterdam",
+        "name": "Kopklas Amsterdam",
+        "school_types": [
+            "kopklas"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kopklas-amsterdam/index.html",
+        "school_website": "https://www.kopklasamsterdam.nl/Open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kopklas+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "nan/",
+        "open_day_date": "20 november 2026",
+        "details": [
+            "Nieuw-West (Diverse locaties (zie website))",
+            "Bezoek ons tijdens de ScholenArenA."
+        ]
+    },
+    {
+        "data_name": "kopklas-amsterdam",
+        "name": "Kopklas Amsterdam",
+        "school_types": [
+            "kopklas"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kopklas-amsterdam/index.html",
+        "school_website": "https://www.kopklasamsterdam.nl/Open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kopklas+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "nan/",
+        "open_day_date": "21 november 2026",
+        "details": [
+            "Nieuw-West (Diverse locaties (zie website))",
+            "Bezoek ons tijdens de ScholenArenA."
+        ]
+    },
+    {
+        "data_name": "kolom-praktijkcollege-de-dreef",
+        "name": "Kolom praktijkcollege De Dreef",
+        "school_types": [
+            "praktijkonderwijs"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-praktijkcollege-de-dreef/index.html",
+        "school_website": "https://www.dedreef.net/aanmelding-rondleiding/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+praktijkcollege+De+Dreef%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kolom-praktijkcollege-de-dreef/",
+        "open_day_date": "24 november 2026",
+        "details": [
+            "Zuidoost (Alexander Dumaslaan 7)",
+            "13:00 - 18:00 uur",
+            "Open middag"
+        ]
+    },
+    {
+        "data_name": "havo-de-hof",
+        "name": "Havo De Hof",
+        "school_types": [
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/havo-de-hof/index.html",
+        "school_website": "https://havodehof.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Havo+De+Hof%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/havo-de-hof/",
+        "open_day_date": "25 november 2026",
+        "details": [
+            "Oost (Dapperstraat 315)",
+            "14:00 -15:30 uur",
+            "Lesjesmiddag. Aanmelden via de website:\n                          www.havodehof.nl"
+        ]
+    },
+    {
+        "data_name": "vonk",
+        "name": "VONK",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vonk/index.html",
+        "school_website": "https://www.vonknh.nl/vmbo/Amsterdam/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VONK%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vonk-amsterdam/",
+        "open_day_date": "25 november 2026",
+        "details": [
+            "Noord (Rode Kruisstraat 40)",
+            "13:30 -15:30 uur",
+            "Meeloopmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "25 november 2026",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "13:30 - 15:30 uur",
+            "Lesjesmiddag met rondleiding"
+        ]
+    },
+    {
+        "data_name": "montessori-lyceum-terra-nova",
+        "name": "Montessori Lyceum Terra Nova",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/montessori-lyceum-terra-nova/index.html",
+        "school_website": "https://mlterranova.nl/groep-7-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Montessori+Lyceum+Terra+Nova%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/montessori-lyceum-terra-nova/",
+        "open_day_date": "26 november 2026",
+        "details": [
+            "Oost (Pampuslaan 1)",
+            "14:00 – 16:00 uur",
+            "Montessori Scholenmarkt. Aanmelden via de\n                          schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-en-pro-amsterdam-oost",
+        "name": "Yuverta vmbo en pro Amsterdam-Oost",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis",
+            "vmbo-kader"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-pro-amsterdam-oost/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-oost",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+en+pro+Amsterdam-Oost%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-locatie-amsterdam-oost/",
+        "open_day_date": "26 november 2026",
+        "details": [
+            "Oost (Archimedesplantsoen 87)",
+            "19:00 -20:00",
+            "Informatieavond. In een uur vertellen we\n                          ouders/leerlingen over de schoold."
+        ]
+    },
+    {
+        "data_name": "cburg-college",
+        "name": "Cburg College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cburg-college/index.html",
+        "school_website": "https://cburgcollege.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cburg+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cburg-college/",
+        "open_day_date": "1 december 2026",
+        "details": [
+            "Oost (Foekje Dillemastraat 116)",
+            "14:00-15:30 uur",
+            "Lesjesmiddag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "tasc-(tech-amsterdam-scholen-collectief)",
+        "name": "TASC (Tech Amsterdam Scholen Collectief)",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/tasc-tech-amsterdam-scholen-collectief/index.html",
+        "school_website": "https://tasc.espritscholen.nl/home/praktisch/open-dagen-2024/25",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TASC+%28Tech+Amsterdam+Scholen+Collectief%29%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/tasc-amsterdam/",
+        "open_day_date": "2 december 2026",
+        "details": [
+            "Zuidoost (Darlingstraat 2)",
+            "16:00 -19:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "de-apollo",
+        "name": "De Apollo",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/de-apollo/index.html",
+        "school_website": "https://www.deapollo.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De+Apollo%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/de-apollo/",
+        "open_day_date": "8 december 2026",
+        "details": [
+            "Zuid (Oudaen 6, 1081 BZ, Amsterdam Buitenveldert)",
+            "16:30 - 19:00 uur",
+            "Open huis."
+        ]
+    },
+    {
+        "data_name": "hlw",
+        "name": "HLW",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hervormd-lyceum-west/index.html",
+        "school_website": "https://www.hlw.nl/kom-kijken-op-het-hlw",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLW%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-hervormd-lyceum-west/",
+        "open_day_date": "9 december 2026",
+        "details": [
+            "Nieuw-West (Hemsterhuisstraat 79)",
+            "14:45-16:30 uur",
+            "Lesjesmiddag 8+. Vast programma op inschrijving. Start\n                          14:45 uur tot ca. 16:45 uur"
+        ]
+    },
+    {
+        "data_name": "cartesius-lyceum",
+        "name": "Cartesius Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-cartesius/index.html",
+        "school_website": "https://cartesius.espritscholen.nl/home/het-lyceum",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cartesius+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-cartesius-lyceum/",
+        "open_day_date": "9 december 2026",
+        "details": [
+            "West (Frederik Hendrikplantsoen 7A)",
+            "15:15 - 16:45 uur",
+            "Lesjes- en informatiemiddag Het Lyceum. Aanmelden kan\n                          binnenkort ."
+        ]
+    },
+    {
+        "data_name": "cburg-college",
+        "name": "Cburg College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cburg-college/index.html",
+        "school_website": "https://cburgcollege.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cburg+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cburg-college/",
+        "open_day_date": "10 december 2026",
+        "details": [
+            "Oost (Foekje Dillemastraat 116)",
+            "14:00-15:30 uur",
+            "Lesjesmiddag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "cornelius-haga-lyceum",
+        "name": "Cornelius Haga Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cornelius-haga-lyceum/index.html",
+        "school_website": "https://corneliushagalyceum.nl/open-dagen-25-26/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cornelius+Haga+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cornelius-haga-lyceum/",
+        "open_day_date": "11 december 2026",
+        "details": [
+            "West (Reinaert de Vosstraat 27)",
+            "18:00 -21:00 uur",
+            "Open Avond"
+        ]
+    },
+    {
+        "data_name": "fiducie-college",
+        "name": "Fiducie College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/fiducie-college/index.html",
+        "school_website": "https://www.fiduciecollege.nl/#:~:text=Ontdek%20het%20Fiducie%20College%20tijdens,in%20Amsterdam%2DNieuw%2DWest.",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fiducie+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/fiducie-college/",
+        "open_day_date": "11 december 2026",
+        "details": [
+            "Nieuw-West (Derkinderenstraat 44)",
+            "19:00 - 21:00 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "7 januari 2027",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "14:45 – 16:00 uur",
+            "Lesjesmiddagen mét rondleiding"
+        ]
+    },
+    {
+        "data_name": "damstede-lyceum",
+        "name": "Damstede Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/damstede-lyceum/index.html",
+        "school_website": "https://damstedelyceum.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Damstede+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/damstede-lyceum/",
+        "open_day_date": "9 januari 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 83)",
+            "12:00 -15:00 uur",
+            "Open Dag"
+        ]
+    },
+    {
+        "data_name": "de-apollo",
+        "name": "De Apollo",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/de-apollo/index.html",
+        "school_website": "https://www.deapollo.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De+Apollo%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/de-apollo/",
+        "open_day_date": "12 januari 2027",
+        "details": [
+            "Zuid (Oudaen 6, 1081 BZ, Amsterdam Buitenveldert)",
+            "16:30 -19:30 uur",
+            "Open huis"
+        ]
+    },
+    {
+        "data_name": "tobiasschool",
+        "name": "Tobiasschool",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/tobiasschool/index.html",
+        "school_website": "https://vo.tobiasschool.nl/groep-8/welkom-groep-8-ers",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tobiasschool%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/tobiasschool/",
+        "open_day_date": "12 januari 2027",
+        "details": [
+            "Zuid (Rietwijkerstraat 55)",
+            "15:00 -17:00 uur",
+            "Open Dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "abc-noorderlicht",
+        "name": "ABC Noorderlicht",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/amsterdams-beroepscollege-noorderlicht/index.html",
+        "school_website": "https://www.abcnoorderlicht.nl/groep-78/aanmelden-open-dag-lesjesmiddag/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ABC+Noorderlicht%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/abc-noorderlicht/",
+        "open_day_date": "12 januari 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 14, 1025 KN Amsterdam)",
+            "18:30 -21:00 uur",
+            "Open Dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "luca",
+        "name": "LUCA",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/luca-praktijkschool/index.html",
+        "school_website": "https://lucapraktijkschool.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LUCA%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/luca/",
+        "open_day_date": "13 januari 2027",
+        "details": [
+            "Oost (Javaplantsoen 24)",
+            "14:00 -17:00",
+            "Open dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "denise",
+        "name": "DENISE",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/denise/index.html",
+        "school_website": "https://denise.espritscholen.nl/home/onze-informatie/aanmelden-bij-denise",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DENISE%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/denise/",
+        "open_day_date": "13 januari 2027",
+        "details": [
+            "Nieuw-West (Piet Mondriaanstraat 140)",
+            "15:30 -18:30 uur",
+            "Kijk- en doemiddag. Voor de ouders/verzorgers zijn er\n                          informatiebijeenkomsten."
+        ]
+    },
+    {
+        "data_name": "montessori-lyceum-pax",
+        "name": "Montessori Lyceum Pax",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/montessori-lyceum-pax/index.html",
+        "school_website": "https://montessorilyceumpax.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Montessori+Lyceum+Pax%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/montessori-lyceum-pax/",
+        "open_day_date": "13 januari 2027",
+        "details": [
+            "Oost (Hoofdlocatie: C. van Eesterenlaan 50 Dependance: Tweede Jan van der Heijdenstraat 75)",
+            "15.30- 19.00 uur",
+            "Open dag. Locatie: C. van Eesterenlaan 50. Voor onze\n                          open dagen hoef je je niet in te schrijven."
+        ]
+    },
+    {
+        "data_name": "montessori-lyceum-terra-nova",
+        "name": "Montessori Lyceum Terra Nova",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/montessori-lyceum-terra-nova/index.html",
+        "school_website": "https://mlterranova.nl/groep-7-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Montessori+Lyceum+Terra+Nova%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/montessori-lyceum-terra-nova/",
+        "open_day_date": "13 januari 2027",
+        "details": [
+            "Oost (Pampuslaan 1)",
+            "17:00 – 20:30 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "college-zuyd",
+        "name": "College ZUYD",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "kopklas"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-zuyd/index.html",
+        "school_website": "https://collegezuyd.nl/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+ZUYD%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-zuyd/",
+        "open_day_date": "13 januari 2027",
+        "details": [
+            "Zuid (Karel du Jardinstraat 54)",
+            "13:45 -17:00 uur",
+            "ZUYD tour. Aanmelden tijdslot via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "vossius-gymnasium",
+        "name": "Vossius Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vossius-gymnasium/index.html",
+        "school_website": "https://www.vossius.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vossius+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vossius-gymnasium/",
+        "open_day_date": "13 januari 2027",
+        "details": [
+            "Zuid (Messchaertstraat 1)",
+            "13:30 -16:30 uur",
+            "Lesjesmiddag. Inschrijven via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "montessori-lyceum-pax",
+        "name": "Montessori Lyceum Pax",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/montessori-lyceum-pax/index.html",
+        "school_website": "https://montessorilyceumpax.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Montessori+Lyceum+Pax%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/montessori-lyceum-pax/",
+        "open_day_date": "14 januari 2027",
+        "details": [
+            "Oost (Hoofdlocatie: C. van Eesterenlaan 50 Dependance: Tweede Jan van der Heijdenstraat 75)",
+            "15.30- 19.00 uur",
+            "Open dag. Locatie: C. van Eesterenlaan 50. Voor onze\n                          open dagen hoef je je niet in te schrijven."
+        ]
+    },
+    {
+        "data_name": "kolom-praktijkcollege-de-dreef",
+        "name": "Kolom praktijkcollege De Dreef",
+        "school_types": [
+            "praktijkonderwijs"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-praktijkcollege-de-dreef/index.html",
+        "school_website": "https://www.dedreef.net/aanmelding-rondleiding/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+praktijkcollege+De+Dreef%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kolom-praktijkcollege-de-dreef/",
+        "open_day_date": "14 januari 2027",
+        "details": [
+            "Zuidoost (Alexander Dumaslaan 7)",
+            "13:00 - 18:00 uur",
+            "Open middag"
+        ]
+    },
+    {
+        "data_name": "over-y-college",
+        "name": "Over-Y College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/over-y-college/index.html",
+        "school_website": "https://www.over-y.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Over-Y+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/over-y-college/",
+        "open_day_date": "14 januari 2027",
+        "details": [
+            "Noord (Floraweg 170)",
+            "18:00 - 21:00 uur",
+            "Open avond. Aanmelden tijdslot via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "vonk",
+        "name": "VONK",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vonk/index.html",
+        "school_website": "https://www.vonknh.nl/vmbo/Amsterdam/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VONK%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vonk-amsterdam/",
+        "open_day_date": "14 januari 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 40)",
+            "13:30 -15:30 uur",
+            "Meeloopmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "cartesius-lyceum",
+        "name": "Cartesius Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-cartesius/index.html",
+        "school_website": "https://cartesius.espritscholen.nl/home/het-lyceum",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cartesius+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-cartesius-lyceum/",
+        "open_day_date": "15 januari 2027",
+        "details": [
+            "West (Frederik Hendrikplantsoen 7A)",
+            "16:00 tot 19:00 uur",
+            "Open dag. Aanmelden niet nodig."
+        ]
+    },
+    {
+        "data_name": "barlaeus-gymnasium",
+        "name": "Barlaeus Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Centrum",
+        "portal_url": "https://schoolkeuze020.nl/scholen/barlaeus-gymnasium/index.html",
+        "school_website": "https://barlaeus.nl/nieuws/open-dagen-2025/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barlaeus+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/barlaeus-gymnasium/",
+        "open_day_date": "15 januari 2027",
+        "details": [
+            "Centrum (Weteringschans 29-31)",
+            "19:00 -21:00 uur",
+            "Open Avond. Open Markt: presentaties vakken en\n                          activiteiten, forum rector"
+        ]
+    },
+    {
+        "data_name": "cburg-college",
+        "name": "Cburg College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cburg-college/index.html",
+        "school_website": "https://cburgcollege.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cburg+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cburg-college/",
+        "open_day_date": "15 januari 2027",
+        "details": [
+            "Oost (Foekje Dillemastraat 116)",
+            "15:00 -17:00 uur",
+            "Open Dag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "spinoza20first",
+        "name": "Spinoza20first",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/spinoza20first/index.html",
+        "school_website": "https://www.spinoza20first.nl/groep-7-en-8/kennismaken-en-open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spinoza20first%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/spinoza20first/",
+        "open_day_date": "15 januari 2027",
+        "details": [
+            "Oost (H.J.E. Wenckebachweg 44)",
+            "16:00 -19:30 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "barlaeus-gymnasium",
+        "name": "Barlaeus Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Centrum",
+        "portal_url": "https://schoolkeuze020.nl/scholen/barlaeus-gymnasium/index.html",
+        "school_website": "https://barlaeus.nl/nieuws/open-dagen-2025/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barlaeus+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/barlaeus-gymnasium/",
+        "open_day_date": "16 januari 2027",
+        "details": [
+            "Centrum (Weteringschans 29-31)",
+            "10:00 -13:00 uur",
+            "Open dag. Open Markt tot 11.45 uur, aansluitend lessen\n                          voor ouders en achtstegroepers."
+        ]
+    },
+    {
+        "data_name": "spinoza20first",
+        "name": "Spinoza20first",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/spinoza20first/index.html",
+        "school_website": "https://www.spinoza20first.nl/groep-7-en-8/kennismaken-en-open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spinoza20first%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/spinoza20first/",
+        "open_day_date": "16 januari 2027",
+        "details": [
+            "Oost (H.J.E. Wenckebachweg 44)",
+            "10:00 -14:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "cburg-college",
+        "name": "Cburg College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cburg-college/index.html",
+        "school_website": "https://cburgcollege.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cburg+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cburg-college/",
+        "open_day_date": "16 januari 2027",
+        "details": [
+            "Oost (Foekje Dillemastraat 116)",
+            "14:00 -16:00 uur",
+            "Open Dag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "vechtstede-college",
+        "name": "Vechtstede College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Weesp",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vechtstede-college/index.html",
+        "school_website": "https://vechtstedecollege.nl/nieuwe-leerlingen/open-dagen-kennismaking/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vechtstede+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vechtstede-college/",
+        "open_day_date": "18 januari 2027",
+        "details": [
+            "Weesp (Amstellandlaan 1a 1382 CD Weesp)",
+            "19:00 - 21:30 uur",
+            "Voorlichtingsavond. Er worden twee sessies gehouden:\n                          om 19.00 uur en om 20.30 uur. Aanmelden via de\n                          schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "lumion",
+        "name": "Lumion",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/lumion/index.html",
+        "school_website": "https://lumion.amsterdam/leerjaar-1#open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lumion%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/lumion/",
+        "open_day_date": "19 januari 2027",
+        "details": [
+            "Nieuw-West (Vlaardingenlaan 25, 1062 HM Amsterdam)",
+            "18:30 -21:00 uur",
+            "Open Dag. Rondleiding, proeflessen en gesprek met\n                          docenten en leerlingen"
+        ]
+    },
+    {
+        "data_name": "denise",
+        "name": "DENISE",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/denise/index.html",
+        "school_website": "https://denise.espritscholen.nl/home/onze-informatie/aanmelden-bij-denise",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DENISE%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/denise/",
+        "open_day_date": "20 januari 2027",
+        "details": [
+            "Nieuw-West (Piet Mondriaanstraat 140)",
+            "15:30 -18:30 uur",
+            "Kijk- en doemiddag. Voor de ouders/verzorgers zijn er\n                          informatiebijeenkomsten."
+        ]
+    },
+    {
+        "data_name": "barlaeus-gymnasium",
+        "name": "Barlaeus Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Centrum",
+        "portal_url": "https://schoolkeuze020.nl/scholen/barlaeus-gymnasium/index.html",
+        "school_website": "https://barlaeus.nl/nieuws/open-dagen-2025/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Barlaeus+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/barlaeus-gymnasium/",
+        "open_day_date": "20 januari 2027",
+        "details": [
+            "Centrum (Weteringschans 29-31)",
+            "14:00 -16:00 uur",
+            "Infomiddag ouders, Lesjesmiddag kinderen. Gesplitst\n                          programma!"
+        ]
+    },
+    {
+        "data_name": "bredero",
+        "name": "Bredero",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/bredero/index.html",
+        "school_website": "https://brederomavo.nl/nieuwe-leerlingen/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bredero%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/bredero/",
+        "open_day_date": "20 januari 2027",
+        "details": [
+            "Noord (Gare du Nord 5)",
+            "14:00 - 17:00 uur",
+            "Open Dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "bredero",
+        "name": "Bredero",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/bredero/index.html",
+        "school_website": "https://brederomavo.nl/nieuwe-leerlingen/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bredero%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/bredero/",
+        "open_day_date": "20 januari 2027",
+        "details": [
+            "Noord (Gare du Nord 5)",
+            "18:00 - 20:30 uur",
+            "Open Avond. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "college-zuyd",
+        "name": "College ZUYD",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "kopklas"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-zuyd/index.html",
+        "school_website": "https://collegezuyd.nl/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+ZUYD%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-zuyd/",
+        "open_day_date": "20 januari 2027",
+        "details": [
+            "Zuid (Karel du Jardinstraat 54)",
+            "13:45 -17:00 uur",
+            "ZUYD tour. Aanmelden tijdslot via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "hlw",
+        "name": "HLW",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hervormd-lyceum-west/index.html",
+        "school_website": "https://www.hlw.nl/kom-kijken-op-het-hlw",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLW%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-hervormd-lyceum-west/",
+        "open_day_date": "20 januari 2027",
+        "details": [
+            "Nieuw-West (Hemsterhuisstraat 79)",
+            "14:45 -16:30 uur",
+            "Lesjesmiddag 8+. Vast programma op inschrijving. Start\n                          14:45 uur tot ca. 16:45 uur"
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "20 januari 2027",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "13:30 - 15:30 uur",
+            "Lesjesmiddag met rondleiding"
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "20 januari 2027",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "13:45 - 15:45 uur",
+            "VWO + Lesjesmiddag mét rondleiding"
+        ]
+    },
+    {
+        "data_name": "metis-montessori-lyceum",
+        "name": "Metis Montessori Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/metis-montessori-lyceum/index.html",
+        "school_website": "https://hetmml.nl/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Metis+Montessori+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/metis-montessori-lyceum/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Oost (Mauritskade 58)",
+            "17:30 - 20:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "tasc-(tech-amsterdam-scholen-collectief)",
+        "name": "TASC (Tech Amsterdam Scholen Collectief)",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/tasc-tech-amsterdam-scholen-collectief/index.html",
+        "school_website": "https://tasc.espritscholen.nl/home/praktisch/open-dagen-2024/25",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TASC+%28Tech+Amsterdam+Scholen+Collectief%29%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/tasc-amsterdam/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Zuidoost (Darlingstraat 2)",
+            "16:00 - 19:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "damstede-lyceum",
+        "name": "Damstede Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/damstede-lyceum/index.html",
+        "school_website": "https://damstedelyceum.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Damstede+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/damstede-lyceum/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 83)",
+            "18:30 -21:00 uur",
+            "Open Dag"
+        ]
+    },
+    {
+        "data_name": "ir.-lely-lyceum",
+        "name": "Ir. Lely Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/ir-lely-lyceum/index.html",
+        "school_website": "https://www.lelylyceum.nl/praktische-informatie/groep-8/naar-de-middelbare-school/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ir.+Lely+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/ir-lely-lyceum/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Zuidoost (Ravenswaaipad 3)",
+            "19:00 -21:00 uur",
+            "Open Avond. Combinatie van voorlichting en veel\n                          lesactiviteiten."
+        ]
+    },
+    {
+        "data_name": "de-apollo",
+        "name": "De Apollo",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/de-apollo/index.html",
+        "school_website": "https://www.deapollo.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De+Apollo%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/de-apollo/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Zuid (Oudaen 6, 1081 BZ, Amsterdam Buitenveldert)",
+            "Lesjesmiddag"
+        ]
+    },
+    {
+        "data_name": "fons-vitae-lyceum",
+        "name": "Fons Vitae Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/fons-vitae-lyceum/index.html",
+        "school_website": "https://fonsvitae.nl/nieuwe-leerlingen/kennismakingsdagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fons+Vitae+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/fons-vitae-lyceum-amsterdam-reijnier-vinkeleskade/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Zuid (Reijnier Vinkeleskade 53)",
+            "15:00 -19:00 uur",
+            "Open dag. Vooraf aanmelden is niet nodig."
+        ]
+    },
+    {
+        "data_name": "cburg-college",
+        "name": "Cburg College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cburg-college/index.html",
+        "school_website": "https://cburgcollege.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cburg+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cburg-college/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Oost (Foekje Dillemastraat 116)",
+            "14:00 - 15:30 uur",
+            "Lesjesmiddag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "kiem-montessori",
+        "name": "Kiem Montessori",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kiem-montessori/index.html",
+        "school_website": "https://www.kiemmontessori.nl/nieuwe-leerlingen/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kiem+Montessori%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kiem-montessori/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Oost (Tweede Oosterparkstraat 33)",
+            "18:00 - 21:00 uur",
+            "Open dag. Je hoeft je niet in te schrijven. Iedereen\n                          is welkom."
+        ]
+    },
+    {
+        "data_name": "csb",
+        "name": "CSB",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/csb/index.html",
+        "school_website": "https://csbamsterdam.nl/groep-8",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CSB%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/csb-amsterdam/",
+        "open_day_date": "21 januari 2027",
+        "details": [
+            "Zuid (De Cuserstraat 3)",
+            "19:00 -21:30 uur",
+            "Open huis"
+        ]
+    },
+    {
+        "data_name": "ir.-lely-lyceum",
+        "name": "Ir. Lely Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/ir-lely-lyceum/index.html",
+        "school_website": "https://www.lelylyceum.nl/praktische-informatie/groep-8/naar-de-middelbare-school/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ir.+Lely+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/ir-lely-lyceum/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "Zuidoost (Ravenswaaipad 3)",
+            "19:00 - 21:00 uur",
+            "Open Dag. Proef de sfeer en doe mee met lessen!"
+        ]
+    },
+    {
+        "data_name": "kairos-college",
+        "name": "Kairos College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kairos-tienercollege/index.html",
+        "school_website": "https://www.kairostienercollege.nl/#:~:text=De%20open%20dag,voor%20aanvang%20via%20deze%20website.",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kairos+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kairos-tienercollege/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "Noord (Meeuwenlaan 136)",
+            "16:00 - 20:00 uur",
+            "Open dag met vast programma. Aanmelden is verplicht."
+        ]
+    },
+    {
+        "data_name": "fons-vitae-lyceum",
+        "name": "Fons Vitae Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/fons-vitae-lyceum/index.html",
+        "school_website": "https://fonsvitae.nl/nieuwe-leerlingen/kennismakingsdagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fons+Vitae+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/fons-vitae-lyceum-amsterdam-reijnier-vinkeleskade/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "Zuid (Reijnier Vinkeleskade 53)",
+            "15:00 -19:00 uur",
+            "Open dag. Vooraf aanmelden is niet nodig."
+        ]
+    },
+    {
+        "data_name": "kiem-montessori",
+        "name": "Kiem Montessori",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kiem-montessori/index.html",
+        "school_website": "https://www.kiemmontessori.nl/nieuwe-leerlingen/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kiem+Montessori%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kiem-montessori/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "Oost (Tweede Oosterparkstraat 33)",
+            "15:00 - 18:30 uur",
+            "Open dag. Je hoeft je niet in te schrijven. Iedereen\n                          is welkom."
+        ]
+    },
+    {
+        "data_name": "vossius-gymnasium",
+        "name": "Vossius Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vossius-gymnasium/index.html",
+        "school_website": "https://www.vossius.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vossius+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vossius-gymnasium/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "Zuid (Messchaertstraat 1)",
+            "18:00 - 21:00 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "college-de-meer",
+        "name": "College De Meer",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-de-meer/index.html",
+        "school_website": "https://collegedemeer.nl/overstap-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+De+Meer%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-de-meer-amsterdam-radioweg/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "Oost (Radioweg 56)",
+            "14:45 tot 16:30 uur",
+            "Lesjesmiddag."
+        ]
+    },
+    {
+        "data_name": "metis-montessori-lyceum",
+        "name": "Metis Montessori Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/metis-montessori-lyceum/index.html",
+        "school_website": "https://hetmml.nl/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Metis+Montessori+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/metis-montessori-lyceum/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "Oost (Mauritskade 58)",
+            "15:00 -18:00",
+            "Open dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "csb",
+        "name": "CSB",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/csb/index.html",
+        "school_website": "https://csbamsterdam.nl/groep-8",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CSB%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/csb-amsterdam/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "Zuid (De Cuserstraat 3)",
+            "16:00 -19:00 uur",
+            "Open huis"
+        ]
+    },
+    {
+        "data_name": "cornelius-haga-lyceum",
+        "name": "Cornelius Haga Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cornelius-haga-lyceum/index.html",
+        "school_website": "https://corneliushagalyceum.nl/open-dagen-25-26/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cornelius+Haga+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cornelius-haga-lyceum/",
+        "open_day_date": "22 januari 2027",
+        "details": [
+            "West (Reinaert de Vosstraat 27)",
+            "18:00 - 21:00 uur",
+            "Open Avond"
+        ]
+    },
+    {
+        "data_name": "kolom-praktijkcollege-de-atlant",
+        "name": "Kolom praktijkcollege De Atlant",
+        "school_types": [
+            "praktijkonderwijs"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-praktijkcollege-de-atlant/index.html",
+        "school_website": "https://www.de-atlant.nl/aanmelding-rondleiding/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+praktijkcollege+De+Atlant%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kolom-praktijkcollege-de-atlant/",
+        "open_day_date": "23 januari 2027",
+        "details": [
+            "Zuid (Teilingen 4)",
+            "11:00 -15:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "vossius-gymnasium",
+        "name": "Vossius Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vossius-gymnasium/index.html",
+        "school_website": "https://www.vossius.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vossius+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vossius-gymnasium/",
+        "open_day_date": "23 januari 2027",
+        "details": [
+            "Zuid (Messchaertstraat 1)",
+            "10:00 - 13:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "kairos-college",
+        "name": "Kairos College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kairos-tienercollege/index.html",
+        "school_website": "https://www.kairostienercollege.nl/#:~:text=De%20open%20dag,voor%20aanvang%20via%20deze%20website.",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kairos+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kairos-tienercollege/",
+        "open_day_date": "23 januari 2027",
+        "details": [
+            "Noord (Meeuwenlaan 136)",
+            "10:00 - 13:00 uur",
+            "Open dag met vast programma. Aanmelden is verplicht."
+        ]
+    },
+    {
+        "data_name": "bindelmeer-college",
+        "name": "Bindelmeer College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/bindelmeer-college/index.html",
+        "school_website": "https://www.bindelmeercollege.nl/onze-school/open-avond-en-lesjesochtend",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bindelmeer+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/bindelmeer-college/",
+        "open_day_date": "25 januari 2027",
+        "details": [
+            "Zuidoost (Dubbelink 1)",
+            "17:00 - 20:00 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "cburg-college",
+        "name": "Cburg College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cburg-college/index.html",
+        "school_website": "https://cburgcollege.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cburg+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cburg-college/",
+        "open_day_date": "26 januari 2027",
+        "details": [
+            "Oost (Foekje Dillemastraat 116)",
+            "14:00 - 15:30 uur",
+            "Lesjesmiddag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "kolom-vso-alphons-laudy",
+        "name": "Kolom VSO Alphons Laudy",
+        "school_types": [],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-vso-alphons-laudy/index.html",
+        "school_website": "https://www.vsoalphonslaudy.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+VSO+Alphons+Laudy%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "nan/",
+        "open_day_date": "26 januari 2027",
+        "details": [
+            "Zuid (Van Nijenrodeweg 648)",
+            "18:45 inloop - start 19:00 uur",
+            "Info-avond nieuwe ouders."
+        ]
+    },
+    {
+        "data_name": "bindelmeer-college",
+        "name": "Bindelmeer College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/bindelmeer-college/index.html",
+        "school_website": "https://www.bindelmeercollege.nl/onze-school/open-avond-en-lesjesochtend",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bindelmeer+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/bindelmeer-college/",
+        "open_day_date": "26 januari 2027",
+        "details": [
+            "Zuidoost (Dubbelink 1)",
+            "17:00 - 20:00 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "iedersland-college",
+        "name": "Iedersland College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/iedersland-college/index.html",
+        "school_website": "https://iederslandcollege.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Iedersland+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/iedersland-college/",
+        "open_day_date": "26 januari 2027",
+        "details": [
+            "West (Zekeringstraat 38 - 40 1014 BT Amsterdam)",
+            "19:00 -20:30 uur",
+            "Open avond voor ouders en leerlingen groep 8."
+        ]
+    },
+    {
+        "data_name": "calandlyceum",
+        "name": "Calandlyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/calandlyceum/index.html",
+        "school_website": "https://calandlyceum.nl/leerjaar-1/opendagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Calandlyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/calandlyceum/",
+        "open_day_date": "26 januari 2027",
+        "details": [
+            "Nieuw-West (Pieter Calandlaan 182)",
+            "18:30 -21:00 uur",
+            "Open avond. Je hoeft je niet vooraf aan te melden: je\n                          bent samen met je ouders/verzorgers van harte welkom!"
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "26 januari 2027",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "17:30 -20:30 uur",
+            "Open avond. Je bent welkom."
+        ]
+    },
+    {
+        "data_name": "calvijn-college-amsterdam",
+        "name": "Calvijn College Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/calvijn-college/index.html",
+        "school_website": "https://calvijncollege.amsterdam/nieuwe-leerlingen/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Calvijn+College+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/calvijn-college-amsterdam/",
+        "open_day_date": "26 januari 2027",
+        "details": [
+            "Nieuw-West (Pieter Calandlaan 3)",
+            "16:00 - 19:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "hlz",
+        "name": "HLZ",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hlz/index.html",
+        "school_website": "https://www.hlz.nl/groep-7-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLZ%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/hlz/",
+        "open_day_date": "27 januari 2027",
+        "details": [
+            "Zuid (Hoofdgebouw (tijdelijk): Dongestraat 12 Dependance leerjaar 1: Jan van Eijckstraat 21)",
+            "14:00 – 20:00 uur",
+            "Open dag. Jan van Eijckstraat 21, inschrijving nodig.\n                          Informatie volgt."
+        ]
+    },
+    {
+        "data_name": "marcanti-college",
+        "name": "Marcanti College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/marcanti-college/index.html",
+        "school_website": "https://marcanti.espritscholen.nl/informatie/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marcanti+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/marcanti-college/",
+        "open_day_date": "27 januari 2027",
+        "details": [
+            "West (Jan van Galenstraat 31)",
+            "16:00 -19:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "xplore-–-agora-amsterdam",
+        "name": "Xplore – Agora Amsterdam",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/xplore-agora-amsterdam/index.html",
+        "school_website": "https://www.xplore.nl/info-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Xplore+%E2%80%93+Agora+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/xplore-agora-amsterdam/",
+        "open_day_date": "27 januari 2027",
+        "details": [
+            "Noord (Elzenhagenpad 2 1025 WL Amsterdam)",
+            "Open dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "27 januari 2027",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "17:30 -20:30 uur",
+            "Open avond. Je bent welkom."
+        ]
+    },
+    {
+        "data_name": "cygnus-gymnasium",
+        "name": "Cygnus Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cygnus-gymnasium/index.html",
+        "school_website": "https://cygnusgymnasium.nl/groep-8/voorlichting-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cygnus+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cygnus-gymnasium/",
+        "open_day_date": "27 januari 2027",
+        "details": [
+            "Oost (Vrolikstraat 8)",
+            "14:30 -16:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "mundus-college",
+        "name": "Mundus College",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/mundus-college/index.html",
+        "school_website": "https://mundus.espritscholen.nl/home/groep-8/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mundus+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/mundus-college/",
+        "open_day_date": "27 januari 2027",
+        "details": [
+            "Nieuw-West (Burgemeester Hogguerstraat 2)",
+            "16:00 -19:00 uur",
+            "Open dag."
+        ]
+    },
+    {
+        "data_name": "het-amsterdams-lyceum",
+        "name": "Het Amsterdams Lyceum",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-amsterdams-lyceum/index.html",
+        "school_website": "https://amsterdamslyceum.nl/praktische-informatie/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het+Amsterdams+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-amsterdams-lyceum-amsterdam-valeriusplein/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Zuid (Valeriusplein 15)",
+            "17:00 tot 21:00 uur",
+            "Informatieavond. We verheugen ons op je komst eind\n                          januari! Neem je ouders gezellig mee."
+        ]
+    },
+    {
+        "data_name": "hlz",
+        "name": "HLZ",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hlz/index.html",
+        "school_website": "https://www.hlz.nl/groep-7-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLZ%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/hlz/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Zuid (Hoofdgebouw (tijdelijk): Dongestraat 12 Dependance leerjaar 1: Jan van Eijckstraat 21)",
+            "16:00 – 20:30 uur",
+            "Open dag. Jan van Eijckstraat 21, inschrijving nodig.\n                          Informatie volgt."
+        ]
+    },
+    {
+        "data_name": "het-4e-gymnasium",
+        "name": "Het 4e Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-4e-gymnasium/index.html",
+        "school_website": "https://www.het4egymnasium.nl/home/praktische-informatie/informatie-voor-nieuwe-leerlingen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het+4e+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-4e-gymnasium/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "West (Archangelweg 4)",
+            "18.00 - 21.00 uur",
+            "Open dag. Aanmelden is niet nodig!"
+        ]
+    },
+    {
+        "data_name": "kolom-praktijkcollege-noord",
+        "name": "Kolom praktijkcollege Noord",
+        "school_types": [
+            "praktijkonderwijs"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-praktijkcollege-noord/index.html",
+        "school_website": "https://www.kpcn.nl/aanmelding-rondleiding/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+praktijkcollege+Noord%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kolom-praktijkcollege-noord/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Noord (Oostzanerdijk 139)",
+            "13:15 -14:45 uur",
+            "Open dag. Inschrijving via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "hyperion-lyceum",
+        "name": "Hyperion Lyceum",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hyperion-lyceum/index.html",
+        "school_website": "https://www.hyperionlyceum.nl/aanmelden/welkom-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hyperion+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/hyperion-lyceum/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Noord (Badhuiskade 361)",
+            "19:00 -21:30 uur",
+            "Open Avond. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "xplore-–-agora-amsterdam",
+        "name": "Xplore – Agora Amsterdam",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/xplore-agora-amsterdam/index.html",
+        "school_website": "https://www.xplore.nl/info-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Xplore+%E2%80%93+Agora+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/xplore-agora-amsterdam/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Noord (Elzenhagenpad 2 1025 WL Amsterdam)",
+            "Open dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "gerrit-van-der-veen-college",
+        "name": "Gerrit van der Veen College",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/gerrit-van-der-veen-college/index.html",
+        "school_website": "https://gerritvdveen.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gerrit+van+der+Veen+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/gerrit-van-der-veen-college/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Zuid (Gerrit van der Veenstraat 99)",
+            "16:00 -20:00 uur",
+            "Open avond. Info volgt op onze website"
+        ]
+    },
+    {
+        "data_name": "montessori-lyceum-terra-nova",
+        "name": "Montessori Lyceum Terra Nova",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/montessori-lyceum-terra-nova/index.html",
+        "school_website": "https://mlterranova.nl/groep-7-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Montessori+Lyceum+Terra+Nova%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/montessori-lyceum-terra-nova/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Oost (Pampuslaan 1)",
+            "17:00 – 20:30 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "pieter-nieuwland-college",
+        "name": "Pieter Nieuwland College",
+        "school_types": [
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/pieter-nieuwland-college/index.html",
+        "school_website": "https://pieternieuwland.nl/belangrijkedata/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pieter+Nieuwland+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/pieter-nieuwland-college/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Oost (Nobelweg 6)",
+            "17:00 -20:00 uur",
+            "Open dag."
+        ]
+    },
+    {
+        "data_name": "casparus-college",
+        "name": "Casparus College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Weesp",
+        "portal_url": "https://schoolkeuze020.nl/scholen/casparus-college/index.html",
+        "school_website": "https://casparuscollege.nl/groep-7-8/open-dag/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Casparus+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/casparus-college/",
+        "open_day_date": "28 januari 2027",
+        "details": [
+            "Weesp (Talmastraat 40, 1381 NE Weesp)",
+            "19:00 - 20:00 uur",
+            "Voorlichtingsavond voor ouders van leerlingen groep 8"
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-amsterdam-west",
+        "name": "Yuverta vmbo Amsterdam-West",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-amsterdam-west/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-west/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+Amsterdam-West%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-vmbo-amsterdam-west/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Nieuw-West (Jan van Zutphenstraat 60)",
+            "14.30 – 19.00 uur",
+            "Open dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "pieter-nieuwland-college",
+        "name": "Pieter Nieuwland College",
+        "school_types": [
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/pieter-nieuwland-college/index.html",
+        "school_website": "https://pieternieuwland.nl/belangrijkedata/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pieter+Nieuwland+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/pieter-nieuwland-college/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Oost (Nobelweg 6)",
+            "17:00 - 20:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "hlz",
+        "name": "HLZ",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hlz/index.html",
+        "school_website": "https://www.hlz.nl/groep-7-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLZ%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/hlz/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Zuid (Hoofdgebouw (tijdelijk): Dongestraat 12 Dependance leerjaar 1: Jan van Eijckstraat 21)",
+            "16:00 – 20:30 uur",
+            "Open dag. Jan van Eijckstraat 21, inschrijving nodig.\n                          Informatie volgt."
+        ]
+    },
+    {
+        "data_name": "ivko",
+        "name": "IVKO",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/ivko/index.html",
+        "school_website": "https://www.ivko.nl/home/open-dagen-en-intakes",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IVKO%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/ivko-leren-van-kunst/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Zuid (Rustenburgerstraat 15)",
+            "18:00 - 20:30 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "metropolis-lyceum",
+        "name": "Metropolis Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/metropolis-lyceum/index.html",
+        "school_website": "https://metropolislyceum.nl/kennismaken/welkom-groep8ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Metropolis+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/metropolis-lyceum/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Noord (Meidoornweg 52)",
+            "16.00-19:00 uur",
+            "Open dag. Aanmelden via schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "mediacollege-amsterdam",
+        "name": "Mediacollege Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/mediacollege-amsterdam/index.html",
+        "school_website": "https://www.ma-web.nl/opleidingen/opleidingsoverzicht/vmbo/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediacollege+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/mediacollege-amsterdam/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Zuid (Dintelstraat 15 1078 VN Amsterdam)",
+            "17:00 - 20:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "montessori-lyceum-oostpoort",
+        "name": "Montessori Lyceum Oostpoort",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/montessori-lyceum-oostpoort/index.html",
+        "school_website": "https://oostpoort.nl/groep-8/voorlichting/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Montessori+Lyceum+Oostpoort%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/montessori-lyceum-oostpoort/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Oost (Polderweg 3 1093 KL Amsterdam)",
+            "15:00 - 20:00 uur",
+            "Open dag. Wil je op de hoogte gehouden worden over de\n                          kennismakingsdagen op Oostpoort? Geef je dan op via de\n                          schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "het-amsterdams-lyceum",
+        "name": "Het Amsterdams Lyceum",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-amsterdams-lyceum/index.html",
+        "school_website": "https://amsterdamslyceum.nl/praktische-informatie/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het+Amsterdams+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-amsterdams-lyceum-amsterdam-valeriusplein/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Zuid (Valeriusplein 15)",
+            "15:00 tot 18:30 uur",
+            "Informatiemiddag. We verheugen ons op je komst eind\n                          januari! Neem je ouders gezellig mee"
+        ]
+    },
+    {
+        "data_name": "college-zuyd",
+        "name": "College ZUYD",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "kopklas"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-zuyd/index.html",
+        "school_website": "https://collegezuyd.nl/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+ZUYD%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-zuyd/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Zuid (Karel du Jardinstraat 54)",
+            "17:00 - 20:00 uur",
+            "Open dag. Op de schoolwebsite aangeven met hoeveel\n                          mensen je komt."
+        ]
+    },
+    {
+        "data_name": "het-4e-gymnasium",
+        "name": "Het 4e Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-4e-gymnasium/index.html",
+        "school_website": "https://www.het4egymnasium.nl/home/praktische-informatie/informatie-voor-nieuwe-leerlingen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het+4e+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-4e-gymnasium/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "West (Archangelweg 4)",
+            "18.00 - 21.00 uur",
+            "Open dag. Aanmelden is niet nodig!"
+        ]
+    },
+    {
+        "data_name": "cygnus-gymnasium",
+        "name": "Cygnus Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cygnus-gymnasium/index.html",
+        "school_website": "https://cygnusgymnasium.nl/groep-8/voorlichting-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cygnus+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cygnus-gymnasium/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Oost (Vrolikstraat 8)",
+            "14.30-16.30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "vonk",
+        "name": "VONK",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vonk/index.html",
+        "school_website": "https://www.vonknh.nl/vmbo/Amsterdam/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VONK%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vonk-amsterdam/",
+        "open_day_date": "29 januari 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 40)",
+            "15:00 - 20:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "metropolis-lyceum",
+        "name": "Metropolis Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/metropolis-lyceum/index.html",
+        "school_website": "https://metropolislyceum.nl/kennismaken/welkom-groep8ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Metropolis+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/metropolis-lyceum/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Noord (Meidoornweg 52)",
+            "09:30-12:30 uur",
+            "Open dag. Aanmelden via schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "mediacollege-amsterdam",
+        "name": "Mediacollege Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/mediacollege-amsterdam/index.html",
+        "school_website": "https://www.ma-web.nl/opleidingen/opleidingsoverzicht/vmbo/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediacollege+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/mediacollege-amsterdam/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Zuid (Dintelstraat 15 1078 VN Amsterdam)",
+            "11:00 - 13:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "het-amsterdams-lyceum",
+        "name": "Het Amsterdams Lyceum",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-amsterdams-lyceum/index.html",
+        "school_website": "https://amsterdamslyceum.nl/praktische-informatie/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het+Amsterdams+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-amsterdams-lyceum-amsterdam-valeriusplein/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Zuid (Valeriusplein 15)",
+            "10:00 tot 13:00 uur",
+            "Open dag. We verheugen ons op je komst eind januari!\n                          Neem je ouders gezellig mee."
+        ]
+    },
+    {
+        "data_name": "college-zuyd",
+        "name": "College ZUYD",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "kopklas"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-zuyd/index.html",
+        "school_website": "https://collegezuyd.nl/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+ZUYD%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-zuyd/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Zuid (Karel du Jardinstraat 54)",
+            "11:00 - 13:00 uur",
+            "Open dag. Op de schoolwebsite aangeven met hoeveel\n                          mensen je komt."
+        ]
+    },
+    {
+        "data_name": "hlz",
+        "name": "HLZ",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hlz/index.html",
+        "school_website": "https://www.hlz.nl/groep-7-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLZ%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/hlz/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Zuid (Hoofdgebouw (tijdelijk): Dongestraat 12 Dependance leerjaar 1: Jan van Eijckstraat 21)",
+            "10:00 – 16:00 uur",
+            "Open dag. Jan van Eijckstraat 21, inschrijving nodig.\n                          Informatie volgt."
+        ]
+    },
+    {
+        "data_name": "gerrit-van-der-veen-college",
+        "name": "Gerrit van der Veen College",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/gerrit-van-der-veen-college/index.html",
+        "school_website": "https://gerritvdveen.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gerrit+van+der+Veen+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/gerrit-van-der-veen-college/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Zuid (Gerrit van der Veenstraat 99)",
+            "09:30 -13:30 uur",
+            "Open dag. Info volgt op onze website"
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-amsterdam-west",
+        "name": "Yuverta vmbo Amsterdam-West",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-amsterdam-west/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-west/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+Amsterdam-West%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-vmbo-amsterdam-west/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Nieuw-West (Jan van Zutphenstraat 60)",
+            "10.00 – 13.00 uur",
+            "Open dag. Aanmelden via schoolwebsite"
+        ]
+    },
+    {
+        "data_name": "ivko",
+        "name": "IVKO",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/ivko/index.html",
+        "school_website": "https://www.ivko.nl/home/open-dagen-en-intakes",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=IVKO%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/ivko-leren-van-kunst/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Zuid (Rustenburgerstraat 15)",
+            "11:00 - 14:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "hyperion-lyceum",
+        "name": "Hyperion Lyceum",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hyperion-lyceum/index.html",
+        "school_website": "https://www.hyperionlyceum.nl/aanmelden/welkom-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hyperion+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/hyperion-lyceum/",
+        "open_day_date": "30 januari 2027",
+        "details": [
+            "Noord (Badhuiskade 361)",
+            "10.00 – 13.00 uur",
+            "Open dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "de-amsterdamse-mavo",
+        "name": "De Amsterdamse MAVO",
+        "school_types": [
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/de-amsterdamse-mavo/index.html",
+        "school_website": "https://deamsterdamsemavo.nl/groep-8.html",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De+Amsterdamse+MAVO%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/de-amsterdamse-mavo/",
+        "open_day_date": "1 februari 2027",
+        "details": [
+            "Oost (Linnaeushof 48)",
+            "18:00 - 20:00 uur",
+            "Open avond, aanmelden via de schoolwebisite."
+        ]
+    },
+    {
+        "data_name": "cburg-college",
+        "name": "Cburg College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cburg-college/index.html",
+        "school_website": "https://cburgcollege.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cburg+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cburg-college/",
+        "open_day_date": "2 februari 2027",
+        "details": [
+            "Oost (Foekje Dillemastraat 116)",
+            "18:30 - 20:30 uur",
+            "Open Avond. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "kolom-praktijkcollege-noord",
+        "name": "Kolom praktijkcollege Noord",
+        "school_types": [
+            "praktijkonderwijs"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-praktijkcollege-noord/index.html",
+        "school_website": "https://www.kpcn.nl/aanmelding-rondleiding/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+praktijkcollege+Noord%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kolom-praktijkcollege-noord/",
+        "open_day_date": "2 februari 2027",
+        "details": [
+            "Noord (Oostzanerdijk 139)",
+            "13:15 -14:45 uur",
+            "Open dag. Inschrijven via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "over-y-college",
+        "name": "Over-Y College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/over-y-college/index.html",
+        "school_website": "https://www.over-y.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Over-Y+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/over-y-college/",
+        "open_day_date": "2 februari 2027",
+        "details": [
+            "Noord (Floraweg 170)",
+            "18:00 - 21:00 uur",
+            "Open avond. Aanmelden tijdslot via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "hlw",
+        "name": "HLW",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hervormd-lyceum-west/index.html",
+        "school_website": "https://www.hlw.nl/kom-kijken-op-het-hlw",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLW%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-hervormd-lyceum-west/",
+        "open_day_date": "2 februari 2027",
+        "details": [
+            "Nieuw-West (Hemsterhuisstraat 79)",
+            "18:00 -21:00 uur",
+            "Open avond. Inschrijven is niet nodig."
+        ]
+    },
+    {
+        "data_name": "lumion",
+        "name": "Lumion",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/lumion/index.html",
+        "school_website": "https://lumion.amsterdam/leerjaar-1#open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lumion%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/lumion/",
+        "open_day_date": "2 februari 2027",
+        "details": [
+            "Nieuw-West (Vlaardingenlaan 25, 1062 HM Amsterdam)",
+            "18:30 - 21:00 uur",
+            "Open Dag. Rondleiding, proeflessen en gesprek met\n                          docenten en leerlingen"
+        ]
+    },
+    {
+        "data_name": "de-amsterdamse-mavo",
+        "name": "De Amsterdamse MAVO",
+        "school_types": [
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/de-amsterdamse-mavo/index.html",
+        "school_website": "https://deamsterdamsemavo.nl/groep-8.html",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De+Amsterdamse+MAVO%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/de-amsterdamse-mavo/",
+        "open_day_date": "2 februari 2027",
+        "details": [
+            "Oost (Linnaeushof 48)",
+            "18:00 - 20:00 uur",
+            "Open avond, aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "college-de-meer",
+        "name": "College De Meer",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-de-meer/index.html",
+        "school_website": "https://collegedemeer.nl/overstap-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+De+Meer%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-de-meer-amsterdam-radioweg/",
+        "open_day_date": "3 februari 2027",
+        "details": [
+            "Oost (Radioweg 56)",
+            "14:00 - 17:00 uur",
+            "Open dag."
+        ]
+    },
+    {
+        "data_name": "luca",
+        "name": "LUCA",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/luca-praktijkschool/index.html",
+        "school_website": "https://lucapraktijkschool.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LUCA%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/luca/",
+        "open_day_date": "3 februari 2027",
+        "details": [
+            "Oost (Javaplantsoen 24)",
+            "16:00 -19:00",
+            "Open dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "huygens-college",
+        "name": "Huygens College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/huygens-college/index.html",
+        "school_website": "https://huygens-college.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Huygens+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/huygens-college/",
+        "open_day_date": "3 februari 2027",
+        "details": [
+            "West (2e Constantijn Huygensstraat 31)",
+            "17.00 – 20.00 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "het-4e-gymnasium",
+        "name": "Het 4e Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-4e-gymnasium/index.html",
+        "school_website": "https://www.het4egymnasium.nl/home/praktische-informatie/informatie-voor-nieuwe-leerlingen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Het+4e+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-4e-gymnasium/",
+        "open_day_date": "3 februari 2027",
+        "details": [
+            "West (Archangelweg 4)",
+            "Lesjesmiddag. Leerlingen van groep 8 kunnen dan lesjes\n                          volgen. Ook hiervoor is aanmelden niet nodig."
+        ]
+    },
+    {
+        "data_name": "hlw",
+        "name": "HLW",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hervormd-lyceum-west/index.html",
+        "school_website": "https://www.hlw.nl/kom-kijken-op-het-hlw",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLW%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-hervormd-lyceum-west/",
+        "open_day_date": "3 februari 2027",
+        "details": [
+            "Nieuw-West (Hemsterhuisstraat 79)",
+            "18:00 -21:00 uur",
+            "Open avond. Inschrijven is niet nodig."
+        ]
+    },
+    {
+        "data_name": "cygnus-gymnasium",
+        "name": "Cygnus Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cygnus-gymnasium/index.html",
+        "school_website": "https://cygnusgymnasium.nl/groep-8/voorlichting-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cygnus+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cygnus-gymnasium/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Oost (Vrolikstraat 8)",
+            "19.00 en 21.15 uur",
+            "Open avond. Aanmelden tijdslot via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "cartesius-lyceum",
+        "name": "Cartesius Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-cartesius/index.html",
+        "school_website": "https://cartesius.espritscholen.nl/home/het-lyceum",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cartesius+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-cartesius-lyceum/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "West (Frederik Hendrikplantsoen 7A)",
+            "16:00 tot 19:00 uur",
+            "Open dag. Aanmelden niet nodig."
+        ]
+    },
+    {
+        "data_name": "osb-amsterdam",
+        "name": "OSB Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/osb-amsterdam/index.html",
+        "school_website": "https://osbijlmer.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OSB+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/osb-amsterdam/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Zuidoost (Gulden Kruis 5)",
+            "16:00 -20:00 uur",
+            "Open dag. Kom langs om te zien of OSB bij je past;\n                          aanmelden is niet nodig."
+        ]
+    },
+    {
+        "data_name": "calvijn-college-amsterdam",
+        "name": "Calvijn College Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/calvijn-college/index.html",
+        "school_website": "https://calvijncollege.amsterdam/nieuwe-leerlingen/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Calvijn+College+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/calvijn-college-amsterdam/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Nieuw-West (Pieter Calandlaan 3)",
+            "15:00 - 17:00 uur",
+            "Calvijn xPerience lesjesmiddagen, aanmelden via de\n                          schoolwebsite"
+        ]
+    },
+    {
+        "data_name": "spinoza-lyceum",
+        "name": "Spinoza Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/spinoza-lyceum/index.html",
+        "school_website": "https://spinozalyceum.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spinoza+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/spinoza-lyceum/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Zuid (Peter van Anrooystraat 8)",
+            "15:30 -20:30 uur",
+            "Open dag. Je bent van harte welkom, aanmelden is niet\n                          nodig!"
+        ]
+    },
+    {
+        "data_name": "bredero",
+        "name": "Bredero",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/bredero/index.html",
+        "school_website": "https://brederomavo.nl/nieuwe-leerlingen/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bredero%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/bredero/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Noord (Gare du Nord 5)",
+            "18:00 - 21:00 uur",
+            "Open Avond. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "berlage-lyceum",
+        "name": "Berlage Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/berlage-lyceum/index.html",
+        "school_website": "https://berlage.espritscholen.nl/home/groep-8/open-dagen-en-lesmiddagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Berlage+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/berlage-lyceum/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Zuid (P.L. Takstraat 33-34)",
+            "16:00 -20:30 uur",
+            "Open dag. Vanaf 20 oktober staat de inschrijving open."
+        ]
+    },
+    {
+        "data_name": "abc-noorderlicht",
+        "name": "ABC Noorderlicht",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/amsterdams-beroepscollege-noorderlicht/index.html",
+        "school_website": "https://www.abcnoorderlicht.nl/groep-78/aanmelden-open-dag-lesjesmiddag/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ABC+Noorderlicht%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/abc-noorderlicht/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 14, 1025 KN Amsterdam)",
+            "18.30-21.00 uur",
+            "Open Dag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "de-apollo",
+        "name": "De Apollo",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/de-apollo/index.html",
+        "school_website": "https://www.deapollo.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=De+Apollo%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/de-apollo/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Zuid (Oudaen 6, 1081 BZ, Amsterdam Buitenveldert)",
+            "Lesjesmiddag"
+        ]
+    },
+    {
+        "data_name": "alasca",
+        "name": "ALASCA",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/alasca/index.html",
+        "school_website": "https://alasca.espritscholen.nl/home/over-alasca-nederlands/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ALASCA%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/alasca/",
+        "open_day_date": "4 februari 2027",
+        "details": [
+            "Oost (Geertje Wielemaplein 1)",
+            "18.00 - 21.00 uur",
+            "Open dag. Schrijf je in via de link op de\n                          schoolwebsite die eind november beschikbaar is."
+        ]
+    },
+    {
+        "data_name": "havo-de-hof",
+        "name": "Havo De Hof",
+        "school_types": [
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/havo-de-hof/index.html",
+        "school_website": "https://havodehof.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Havo+De+Hof%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/havo-de-hof/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Oost (Dapperstraat 315)",
+            "16:00 -19:00 uur",
+            "Open Dag."
+        ]
+    },
+    {
+        "data_name": "montessori-lyceum-amsterdam-(mla)",
+        "name": "Montessori Lyceum Amsterdam (MLA)",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/montessori-lyceum-amsterdam-mla/index.html",
+        "school_website": "https://www.montessorilyceumamsterdam.nl/over-ons/open-dagen-online",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Montessori+Lyceum+Amsterdam+%28MLA%29%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/montessori-lyceum-amsterdam-locatie-hoofdlocatie/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Zuid (Nicolaas Maesstraat 1 )",
+            "Open dag. Hoofdgebouw Nicolaas Maesstraat. Aanmelden\n                          via de schoolwebsite in december."
+        ]
+    },
+    {
+        "data_name": "vechtstede-college",
+        "name": "Vechtstede College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Weesp",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vechtstede-college/index.html",
+        "school_website": "https://vechtstedecollege.nl/nieuwe-leerlingen/open-dagen-kennismaking/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vechtstede+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vechtstede-college/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Weesp (Amstellandlaan 1a 1382 CD Weesp)",
+            "19.00 - 21.00 uur",
+            "Open huis. U hoeft zich voor ons Open Huis niet van\n                          tevoren aan te melden. De inloop start om 18.30 uur!"
+        ]
+    },
+    {
+        "data_name": "fiducie-college",
+        "name": "Fiducie College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/fiducie-college/index.html",
+        "school_website": "https://www.fiduciecollege.nl/#:~:text=Ontdek%20het%20Fiducie%20College%20tijdens,in%20Amsterdam%2DNieuw%2DWest.",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fiducie+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/fiducie-college/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Nieuw-West (Derkinderenstraat 44)",
+            "19:00 - 21:00 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "berlage-lyceum",
+        "name": "Berlage Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/berlage-lyceum/index.html",
+        "school_website": "https://berlage.espritscholen.nl/home/groep-8/open-dagen-en-lesmiddagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Berlage+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/berlage-lyceum/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Zuid (P.L. Takstraat 33-34)",
+            "16:00 -20:30 uur",
+            "Open dag. Vanaf 20 oktober staat de inschrijving open."
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-en-pro-amsterdam-oost",
+        "name": "Yuverta vmbo en pro Amsterdam-Oost",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis",
+            "vmbo-kader"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-pro-amsterdam-oost/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-oost",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+en+pro+Amsterdam-Oost%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-locatie-amsterdam-oost/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Oost (Archimedesplantsoen 87)",
+            "15.00 – 18.00 uur",
+            "Open dag. Aanmelden via schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "spinoza-lyceum",
+        "name": "Spinoza Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/spinoza-lyceum/index.html",
+        "school_website": "https://spinozalyceum.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Spinoza+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/spinoza-lyceum/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Zuid (Peter van Anrooystraat 8)",
+            "15:30 -20:30 uur",
+            "Open dag. Je bent van harte welkom, aanmelden is niet\n                          nodig!"
+        ]
+    },
+    {
+        "data_name": "pieter-nieuwland-college",
+        "name": "Pieter Nieuwland College",
+        "school_types": [
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/pieter-nieuwland-college/index.html",
+        "school_website": "https://pieternieuwland.nl/belangrijkedata/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pieter+Nieuwland+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/pieter-nieuwland-college/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Oost (Nobelweg 6)",
+            "15:00 -17:00 uur",
+            "Lesjesmiddag. Aanmelden via schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "casparus-college",
+        "name": "Casparus College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Weesp",
+        "portal_url": "https://schoolkeuze020.nl/scholen/casparus-college/index.html",
+        "school_website": "https://casparuscollege.nl/groep-7-8/open-dag/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Casparus+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/casparus-college/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Weesp (Talmastraat 40, 1381 NE Weesp)",
+            "15:00 - 19:00 uur",
+            "Open dag. Je hoeft je niet van tevoren aan te melden\n                          voor de voorlichting en/of open dag."
+        ]
+    },
+    {
+        "data_name": "osb-amsterdam",
+        "name": "OSB Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/osb-amsterdam/index.html",
+        "school_website": "https://osbijlmer.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OSB+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/osb-amsterdam/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Zuidoost (Gulden Kruis 5)",
+            "16:00 -20:00 uur",
+            "Open dag. Kom langs om te zien of OSB bij je past;\n                          aanmelden is niet nodig."
+        ]
+    },
+    {
+        "data_name": "college-de-meer",
+        "name": "College De Meer",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-de-meer/index.html",
+        "school_website": "https://collegedemeer.nl/overstap-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+De+Meer%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-de-meer-amsterdam-radioweg/",
+        "open_day_date": "5 februari 2027",
+        "details": [
+            "Oost (Radioweg 56)",
+            "14:45 tot 16:30 uur",
+            "Lesjesmiddag."
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-en-pro-amsterdam-oost",
+        "name": "Yuverta vmbo en pro Amsterdam-Oost",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis",
+            "vmbo-kader"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-pro-amsterdam-oost/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-oost",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+en+pro+Amsterdam-Oost%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-locatie-amsterdam-oost/",
+        "open_day_date": "6 februari 2027",
+        "details": [
+            "Oost (Archimedesplantsoen 87)",
+            "10.00 – 13.00 uur",
+            "Open dag. Aanmelden via schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "havo-de-hof",
+        "name": "Havo De Hof",
+        "school_types": [
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/havo-de-hof/index.html",
+        "school_website": "https://havodehof.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Havo+De+Hof%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/havo-de-hof/",
+        "open_day_date": "6 februari 2027",
+        "details": [
+            "Oost (Dapperstraat 315)",
+            "12:00 -15:00 uur",
+            "Open Dag."
+        ]
+    },
+    {
+        "data_name": "cygnus-gymnasium",
+        "name": "Cygnus Gymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cygnus-gymnasium/index.html",
+        "school_website": "https://cygnusgymnasium.nl/groep-8/voorlichting-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cygnus+Gymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cygnus-gymnasium/",
+        "open_day_date": "6 februari 2027",
+        "details": [
+            "Oost (Vrolikstraat 8)",
+            "10.00 en 12.15 uur",
+            "Open dag. Aanmelden tijdslot via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "calandlyceum",
+        "name": "Calandlyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/calandlyceum/index.html",
+        "school_website": "https://calandlyceum.nl/leerjaar-1/opendagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Calandlyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/calandlyceum/",
+        "open_day_date": "9 februari 2027",
+        "details": [
+            "Nieuw-West (Pieter Calandlaan 182)",
+            "18:30 -21:00 uur",
+            "Open avond. Je hoeft je niet vooraf aan te melden: je\n                          bent samen met je ouders/verzorgers van harte welkom!"
+        ]
+    },
+    {
+        "data_name": "kolom-praktijkcollege-de-dreef",
+        "name": "Kolom praktijkcollege De Dreef",
+        "school_types": [
+            "praktijkonderwijs"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-praktijkcollege-de-dreef/index.html",
+        "school_website": "https://www.dedreef.net/aanmelding-rondleiding/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+praktijkcollege+De+Dreef%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kolom-praktijkcollege-de-dreef/",
+        "open_day_date": "9 februari 2027",
+        "details": [
+            "Zuidoost (Alexander Dumaslaan 7)",
+            "17:30 - 20:00 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "vechtstede-college",
+        "name": "Vechtstede College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Weesp",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vechtstede-college/index.html",
+        "school_website": "https://vechtstedecollege.nl/nieuwe-leerlingen/open-dagen-kennismaking/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vechtstede+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vechtstede-college/",
+        "open_day_date": "9 februari 2027",
+        "details": [
+            "Weesp (Amstellandlaan 1a 1382 CD Weesp)",
+            "19.00 - 21.00 uur",
+            "Voorlichtingsavond voor leerlingen én hun ouders, die\n                          geïnteresseerd zijn in het tweetalig vwo. Aanmelden\n                          via schoolwebsite"
+        ]
+    },
+    {
+        "data_name": "kolom-praktijkcollege-de-atlant",
+        "name": "Kolom praktijkcollege De Atlant",
+        "school_types": [
+            "praktijkonderwijs"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-praktijkcollege-de-atlant/index.html",
+        "school_website": "https://www.de-atlant.nl/aanmelding-rondleiding/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+praktijkcollege+De+Atlant%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kolom-praktijkcollege-de-atlant/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Zuid (Teilingen 4)",
+            "14:30 -18:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "pieter-nieuwland-college",
+        "name": "Pieter Nieuwland College",
+        "school_types": [
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/pieter-nieuwland-college/index.html",
+        "school_website": "https://pieternieuwland.nl/belangrijkedata/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pieter+Nieuwland+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/pieter-nieuwland-college/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Oost (Nobelweg 6)",
+            "15:00 -17:00 uur",
+            "Minilessen."
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "13:30 - 15:30 uur",
+            "Lesjesmiddag met rondleiding"
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "13:45 - 15:45 uur",
+            "VWO + Lesjesmiddag mét rondleiding"
+        ]
+    },
+    {
+        "data_name": "mediacollege-amsterdam",
+        "name": "Mediacollege Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/mediacollege-amsterdam/index.html",
+        "school_website": "https://www.ma-web.nl/opleidingen/opleidingsoverzicht/vmbo/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediacollege+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/mediacollege-amsterdam/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Zuid (Dintelstraat 15, 1078 VN Amsterdam)",
+            "Tijd nog onbekend",
+            "Lesjesmiddag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "futuris",
+        "name": "Futuris",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/futuris/index.html",
+        "school_website": "https://www.futuris.nl/naar-futuris/maak-kennis-met-futuris",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Futuris%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/futuris/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Zuid (Pandora 1-2 1183 KK Amstelveen)",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "havo-de-hof",
+        "name": "Havo De Hof",
+        "school_types": [
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/havo-de-hof/index.html",
+        "school_website": "https://havodehof.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Havo+De+Hof%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/havo-de-hof/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Oost (Dapperstraat 315)",
+            "14:00 -15:30 uur uur",
+            "Lesjesmiddag. Aanmelden via de website:\n                          www.havodehof.nl"
+        ]
+    },
+    {
+        "data_name": "kolom-vso-alphons-laudy",
+        "name": "Kolom VSO Alphons Laudy",
+        "school_types": [],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kolom-vso-alphons-laudy/index.html",
+        "school_website": "https://www.vsoalphonslaudy.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kolom+VSO+Alphons+Laudy%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "nan/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Zuid (Van Nijenrodeweg 648)",
+            "12:45 inloop - start 13:00 uur",
+            "Open middag nieuwe leerlingen."
+        ]
+    },
+    {
+        "data_name": "marcanti-college",
+        "name": "Marcanti College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/marcanti-college/index.html",
+        "school_website": "https://marcanti.espritscholen.nl/informatie/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marcanti+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/marcanti-college/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "West (Jan van Galenstraat 31)",
+            "15:00 - 16:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "denise",
+        "name": "DENISE",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/denise/index.html",
+        "school_website": "https://denise.espritscholen.nl/home/onze-informatie/aanmelden-bij-denise",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=DENISE%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/denise/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Nieuw-West (Piet Mondriaanstraat 140)",
+            "15:30 -18:30 uur",
+            "Kijk- en doemiddag. Voor de ouders/verzorgers zijn er\n                          informatiebijeenkomsten."
+        ]
+    },
+    {
+        "data_name": "gerrit-van-der-veen-college",
+        "name": "Gerrit van der Veen College",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/gerrit-van-der-veen-college/index.html",
+        "school_website": "https://gerritvdveen.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Gerrit+van+der+Veen+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/gerrit-van-der-veen-college/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Zuid (Gerrit van der Veenstraat 99)",
+            "14:00-17:00",
+            "Lesjesmiddag. Inschrijving: informatie volgt."
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-en-pro-amsterdam-oost",
+        "name": "Yuverta vmbo en pro Amsterdam-Oost",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis",
+            "vmbo-kader"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-pro-amsterdam-oost/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-oost",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+en+pro+Amsterdam-Oost%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-locatie-amsterdam-oost/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Oost (Archimedesplantsoen 87)",
+            "12:45 - 15:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "vonk",
+        "name": "VONK",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vonk/index.html",
+        "school_website": "https://www.vonknh.nl/vmbo/Amsterdam/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VONK%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vonk-amsterdam/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 40)",
+            "13:30 -15:30",
+            "Meeloopmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "csb",
+        "name": "CSB",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/csb/index.html",
+        "school_website": "https://csbamsterdam.nl/groep-8",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CSB%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/csb-amsterdam/",
+        "open_day_date": "10 februari 2027",
+        "details": [
+            "Zuid (De Cuserstraat 3)",
+            "14:00 -16:00 uur",
+            "Lesjesmiddag. Aanmelden kan via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "futuris",
+        "name": "Futuris",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/futuris/index.html",
+        "school_website": "https://www.futuris.nl/naar-futuris/maak-kennis-met-futuris",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Futuris%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/futuris/",
+        "open_day_date": "11 februari 2027",
+        "details": [
+            "Zuid (Pandora 1-2 1183 KK Amstelveen)",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "montessori-lyceum-oostpoort",
+        "name": "Montessori Lyceum Oostpoort",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/montessori-lyceum-oostpoort/index.html",
+        "school_website": "https://oostpoort.nl/groep-8/voorlichting/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Montessori+Lyceum+Oostpoort%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/montessori-lyceum-oostpoort/",
+        "open_day_date": "11 februari 2027",
+        "details": [
+            "Oost (Polderweg 3 1093 KL Amsterdam)",
+            "19:00 - 20:30 uur",
+            "Lesjesavond. Meer informatie volgt te zijner tijd!"
+        ]
+    },
+    {
+        "data_name": "hubertus-&-berkhoff",
+        "name": "Hubertus & Berkhoff",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hubertus-berkhoff/index.html",
+        "school_website": "https://hubertusberkhoff.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Hubertus+%26+Berkhoff%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/hubertus-berkhoff-de-culinaire-vakschool/",
+        "open_day_date": "11 februari 2027",
+        "details": [
+            "Zuid (Betuwestraat 29)",
+            "17:30 -20:00 uur",
+            "Open Avond. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "geert-groote-college-amsterdam",
+        "name": "Geert Groote College Amsterdam",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/geert-groote-college-amsterdam/index.html",
+        "school_website": "https://www.ggca.nl/informatie-voor-nieuwe-leerlingen/#belangrijke-data",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Geert+Groote+College+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/geert-groote-college-amsterdam/",
+        "open_day_date": "12 februari 2027",
+        "details": [
+            "Zuid (Fred. Roeskestraat 84)",
+            "14:00 -17:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "geert-groote-college-amsterdam",
+        "name": "Geert Groote College Amsterdam",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/geert-groote-college-amsterdam/index.html",
+        "school_website": "https://www.ggca.nl/informatie-voor-nieuwe-leerlingen/#belangrijke-data",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Geert+Groote+College+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/geert-groote-college-amsterdam/",
+        "open_day_date": "13 februari 2027",
+        "details": [
+            "Zuid (Fred. Roeskestraat 84)",
+            "10:00 -14:30 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "xplore-–-agora-amsterdam",
+        "name": "Xplore – Agora Amsterdam",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/xplore-agora-amsterdam/index.html",
+        "school_website": "https://www.xplore.nl/info-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Xplore+%E2%80%93+Agora+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/xplore-agora-amsterdam/",
+        "open_day_date": "15 februari 2027",
+        "details": [
+            "Noord (Elzenhagenpad 2 1025 WL Amsterdam)",
+            "14:30- 16:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "xplore-–-agora-amsterdam",
+        "name": "Xplore – Agora Amsterdam",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/xplore-agora-amsterdam/index.html",
+        "school_website": "https://www.xplore.nl/info-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Xplore+%E2%80%93+Agora+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/xplore-agora-amsterdam/",
+        "open_day_date": "16 februari 2027",
+        "details": [
+            "Noord (Elzenhagenpad 2 1025 WL Amsterdam)",
+            "14:30- 16:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "tasc-(tech-amsterdam-scholen-collectief)",
+        "name": "TASC (Tech Amsterdam Scholen Collectief)",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Zuidoost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/tasc-tech-amsterdam-scholen-collectief/index.html",
+        "school_website": "https://tasc.espritscholen.nl/home/praktisch/open-dagen-2024/25",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TASC+%28Tech+Amsterdam+Scholen+Collectief%29%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/tasc-amsterdam/",
+        "open_day_date": "16 februari 2027",
+        "details": [
+            "Zuidoost (Darlingstraat 2)",
+            "16:00 - 19:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "st.-ignatiusgymnasium",
+        "name": "St. Ignatiusgymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/st-ignatiusgymnasium/index.html",
+        "school_website": "https://ig.nl/Groep-8/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=St.+Ignatiusgymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/sint-ignatiusgymnasium/",
+        "open_day_date": "16 februari 2027",
+        "details": [
+            "Zuid (Jan van Eijckstraat 47)",
+            "18:00 - 21:00 uur",
+            "Open avond. Inschrijven is niet nodig!"
+        ]
+    },
+    {
+        "data_name": "kiem-montessori",
+        "name": "Kiem Montessori",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/kiem-montessori/index.html",
+        "school_website": "https://www.kiemmontessori.nl/nieuwe-leerlingen/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Kiem+Montessori%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/kiem-montessori/",
+        "open_day_date": "16 februari 2027",
+        "details": [
+            "Oost (Tweede Oosterparkstraat 33)",
+            "13:30 - 15:30 uur",
+            "Lesjesmiddag. Inschrijven is nog niet mogelijk, in\n                          januari 2027 gaat de inschrijving open."
+        ]
+    },
+    {
+        "data_name": "vechtstede-college",
+        "name": "Vechtstede College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Weesp",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vechtstede-college/index.html",
+        "school_website": "https://vechtstedecollege.nl/nieuwe-leerlingen/open-dagen-kennismaking/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vechtstede+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vechtstede-college/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Weesp (Amstellandlaan 1a 1382 CD Weesp)",
+            "15:00 - 16:20 uur",
+            "Lesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "huygens-college",
+        "name": "Huygens College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/huygens-college/index.html",
+        "school_website": "https://huygens-college.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Huygens+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/huygens-college/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "West (2e Constantijn Huygensstraat 31)",
+            "15.00-16.30 uur",
+            "Lesjesmiddag"
+        ]
+    },
+    {
+        "data_name": "st.-ignatiusgymnasium",
+        "name": "St. Ignatiusgymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/st-ignatiusgymnasium/index.html",
+        "school_website": "https://ig.nl/Groep-8/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=St.+Ignatiusgymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/sint-ignatiusgymnasium/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Zuid (Jan van Eijckstraat 47)",
+            "15:00 - 18:00 uur",
+            "Open middag. Inschrijven is niet nodig!"
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-amsterdam-west",
+        "name": "Yuverta vmbo Amsterdam-West",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-amsterdam-west/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-west/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+Amsterdam-West%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-vmbo-amsterdam-west/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Nieuw-West (Jan van Zutphenstraat 60)",
+            "12:45 -15:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "calvijn-college-amsterdam",
+        "name": "Calvijn College Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/calvijn-college/index.html",
+        "school_website": "https://calvijncollege.amsterdam/nieuwe-leerlingen/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Calvijn+College+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/calvijn-college-amsterdam/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Nieuw-West (Pieter Calandlaan 3)",
+            "16:00 - 19:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "college-zuyd",
+        "name": "College ZUYD",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "kopklas"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-zuyd/index.html",
+        "school_website": "https://collegezuyd.nl/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+ZUYD%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-zuyd/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Zuid (Karel du Jardinstraat 54)",
+            "13:45 - 17:00 uur",
+            "ZUYD tour. Aanmelden tijdslot via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "csb",
+        "name": "CSB",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/csb/index.html",
+        "school_website": "https://csbamsterdam.nl/groep-8",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CSB%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/csb-amsterdam/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Zuid (De Cuserstraat 3)",
+            "14:00 -16:00 uur",
+            "Lesjesmiddag. Aanmelden kan via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "hlw",
+        "name": "HLW",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hervormd-lyceum-west/index.html",
+        "school_website": "https://www.hlw.nl/kom-kijken-op-het-hlw",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLW%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-hervormd-lyceum-west/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Nieuw-West (Hemsterhuisstraat 79)",
+            "15:00 -17:00 uur",
+            "Informatiemiddag TTO. Als je voor beide middagen wil\n                          inschrijven, schrijf je dan voor beide dagen even\n                          apart in."
+        ]
+    },
+    {
+        "data_name": "damstede-lyceum",
+        "name": "Damstede Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/damstede-lyceum/index.html",
+        "school_website": "https://damstedelyceum.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Damstede+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/damstede-lyceum/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 83)",
+            "14:00 - 16:00 uur",
+            "Lesjesmiddag. Inschrijven (volgt)"
+        ]
+    },
+    {
+        "data_name": "xplore-–-agora-amsterdam",
+        "name": "Xplore – Agora Amsterdam",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/xplore-agora-amsterdam/index.html",
+        "school_website": "https://www.xplore.nl/info-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Xplore+%E2%80%93+Agora+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/xplore-agora-amsterdam/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Noord (Elzenhagenpad 2 1025 WL Amsterdam)",
+            "14:30- 16:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "college-de-meer",
+        "name": "College De Meer",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-de-meer/index.html",
+        "school_website": "https://collegedemeer.nl/overstap-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+De+Meer%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-de-meer-amsterdam-radioweg/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Oost (Radioweg 56)",
+            "14:00 - 17:00 uur",
+            "Open dag."
+        ]
+    },
+    {
+        "data_name": "iedersland-college",
+        "name": "Iedersland College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/iedersland-college/index.html",
+        "school_website": "https://iederslandcollege.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Iedersland+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/iedersland-college/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "West (Zekeringstraat 38 - 40, 1014 BT Amsterdam)",
+            "Tijd nog onbekend",
+            "Lesjesmiddag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "comenius-lyceum-amsterdam",
+        "name": "Comenius Lyceum Amsterdam",
+        "school_types": [
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/comenius-lyceum-amsterdam/index.html",
+        "school_website": "https://comeniuslyceum.nl/groep-8/open-avonden/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Comenius+Lyceum+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/comenius-lyceum-amsterdam/",
+        "open_day_date": "17 februari 2027",
+        "details": [
+            "Nieuw-West (Jacob Geelstraat 38)",
+            "13:30 - 15:30 uur",
+            "Lesjesmiddag met rondleiding"
+        ]
+    },
+    {
+        "data_name": "st.-ignatiusgymnasium",
+        "name": "St. Ignatiusgymnasium",
+        "school_types": [
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/st-ignatiusgymnasium/index.html",
+        "school_website": "https://ig.nl/Groep-8/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=St.+Ignatiusgymnasium%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/sint-ignatiusgymnasium/",
+        "open_day_date": "18 februari 2027",
+        "details": [
+            "Zuid (Jan van Eijckstraat 47)",
+            "14:00- 16:00 uur",
+            "Lesjesmiddag."
+        ]
+    },
+    {
+        "data_name": "xplore-–-agora-amsterdam",
+        "name": "Xplore – Agora Amsterdam",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/xplore-agora-amsterdam/index.html",
+        "school_website": "https://www.xplore.nl/info-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Xplore+%E2%80%93+Agora+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/xplore-agora-amsterdam/",
+        "open_day_date": "18 februari 2027",
+        "details": [
+            "Noord (Elzenhagenpad 2 1025 WL Amsterdam)",
+            "14:30- 16:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "fiducie-college",
+        "name": "Fiducie College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/fiducie-college/index.html",
+        "school_website": "https://www.fiduciecollege.nl/#:~:text=Ontdek%20het%20Fiducie%20College%20tijdens,in%20Amsterdam%2DNieuw%2DWest.",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fiducie+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/fiducie-college/",
+        "open_day_date": "20 februari 2027",
+        "details": [
+            "Nieuw-West (Derkinderenstraat 44)",
+            "11:00 - 13:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "lumion",
+        "name": "Lumion",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/lumion/index.html",
+        "school_website": "https://lumion.amsterdam/leerjaar-1#open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lumion%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/lumion/",
+        "open_day_date": "2 maart 2027",
+        "details": [
+            "Nieuw-West (Vlaardingenlaan 25, 1062 HM Amsterdam)",
+            "Lesjesmiddag. De aanmeldlink volgt later dit jaar."
+        ]
+    },
+    {
+        "data_name": "csb",
+        "name": "CSB",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/csb/index.html",
+        "school_website": "https://csbamsterdam.nl/groep-8",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CSB%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/csb-amsterdam/",
+        "open_day_date": "3 maart 2027",
+        "details": [
+            "Zuid (De Cuserstraat 3)",
+            "14:00 - 16:00 uur",
+            "Lesjesmiddag. Aanmelden kan via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "hlw",
+        "name": "HLW",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo",
+            "kopklas"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hervormd-lyceum-west/index.html",
+        "school_website": "https://www.hlw.nl/kom-kijken-op-het-hlw",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLW%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-hervormd-lyceum-west/",
+        "open_day_date": "3 maart 2027",
+        "details": [
+            "Nieuw-West (Hemsterhuisstraat 79)",
+            "15:00 -17:00 uur",
+            "Informatiemiddag DigiTech. Als je voor beide middagen\n                          wil inschrijven, schrijf je dan voor beide dagen even\n                          apart in."
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-amsterdam-west",
+        "name": "Yuverta vmbo Amsterdam-West",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-amsterdam-west/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-west/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+Amsterdam-West%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-vmbo-amsterdam-west/",
+        "open_day_date": "3 maart 2027",
+        "details": [
+            "Nieuw-West (Jan van Zutphenstraat 60)",
+            "12:45 - 15:30",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "vechtstede-college",
+        "name": "Vechtstede College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Weesp",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vechtstede-college/index.html",
+        "school_website": "https://vechtstedecollege.nl/nieuwe-leerlingen/open-dagen-kennismaking/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Vechtstede+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vechtstede-college/",
+        "open_day_date": "3 maart 2027",
+        "details": [
+            "Weesp (Amstellandlaan 1a 1382 CD Weesp)",
+            "15:00 - 16:20 uur",
+            "Lesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "havo-de-hof",
+        "name": "Havo De Hof",
+        "school_types": [
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/havo-de-hof/index.html",
+        "school_website": "https://havodehof.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Havo+De+Hof%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/havo-de-hof/",
+        "open_day_date": "3 maart 2027",
+        "details": [
+            "Oost (Dapperstraat 315)",
+            "15:00 -16:0 uur",
+            "Lesjesmiddag. Aanmelden via de website:\n                          www.havodehof.nl"
+        ]
+    },
+    {
+        "data_name": "damstede-lyceum",
+        "name": "Damstede Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/damstede-lyceum/index.html",
+        "school_website": "https://damstedelyceum.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Damstede+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/damstede-lyceum/",
+        "open_day_date": "3 maart 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 83)",
+            "14:00 - 16:00 uur",
+            "Lesjesmiddag. Inschrijven (volgt)"
+        ]
+    },
+    {
+        "data_name": "cartesius-lyceum",
+        "name": "Cartesius Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/het-cartesius/index.html",
+        "school_website": "https://cartesius.espritscholen.nl/home/het-lyceum",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cartesius+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/het-cartesius-lyceum/",
+        "open_day_date": "3 maart 2027",
+        "details": [
+            "West (Frederik Hendrikplantsoen 7A)",
+            "15:15 - 16:45 uur",
+            "Lesjes- en informatiemiddag Het Lyceum. Aanmelden kan\n                          binnenkort ."
+        ]
+    },
+    {
+        "data_name": "calvijn-college-amsterdam",
+        "name": "Calvijn College Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/calvijn-college/index.html",
+        "school_website": "https://calvijncollege.amsterdam/nieuwe-leerlingen/kennismaken/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Calvijn+College+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/calvijn-college-amsterdam/",
+        "open_day_date": "4 maart 2027",
+        "details": [
+            "Nieuw-West (Pieter Calandlaan 3)",
+            "5:00 - 17:00 uur",
+            "Calvijn xPerience lesjesmiddagen, aanmelden via de\n                          schoolwebsite"
+        ]
+    },
+    {
+        "data_name": "mediacollege-amsterdam",
+        "name": "Mediacollege Amsterdam",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/mediacollege-amsterdam/index.html",
+        "school_website": "https://www.ma-web.nl/opleidingen/opleidingsoverzicht/vmbo/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediacollege+Amsterdam%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/mediacollege-amsterdam/",
+        "open_day_date": "4 maart 2027",
+        "details": [
+            "Zuid (Dintelstraat 15, 1078 VN Amsterdam)",
+            "Tijd nog onbekend",
+            "Lesjesmiddag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "hlz",
+        "name": "HLZ",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Zuid",
+        "portal_url": "https://schoolkeuze020.nl/scholen/hlz/index.html",
+        "school_website": "https://www.hlz.nl/groep-7-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HLZ%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/hlz/",
+        "open_day_date": "10 maart 2027",
+        "details": [
+            "Zuid (Hoofdgebouw (tijdelijk): Dongestraat 12 Dependance leerjaar 1: Jan van Eijckstraat 21)",
+            "14:00 – 17:00 uur",
+            "Lesjesmiddag. Jan van Eijckstraat 21, inschrijving\n                          nodig. Informatie volgt."
+        ]
+    },
+    {
+        "data_name": "bredero",
+        "name": "Bredero",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/bredero/index.html",
+        "school_website": "https://brederomavo.nl/nieuwe-leerlingen/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bredero%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/bredero/",
+        "open_day_date": "10 maart 2027",
+        "details": [
+            "Noord (Gare du Nord 5)",
+            "14:30 - 16:00 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "mundus-college",
+        "name": "Mundus College",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/mundus-college/index.html",
+        "school_website": "https://mundus.espritscholen.nl/home/groep-8/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mundus+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/mundus-college/",
+        "open_day_date": "11 maart 2027",
+        "details": [
+            "Nieuw-West (Burgemeester Hogguerstraat 2)",
+            "16:00 -19:00 uur",
+            "Open dag."
+        ]
+    },
+    {
+        "data_name": "metropolis-lyceum",
+        "name": "Metropolis Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/metropolis-lyceum/index.html",
+        "school_website": "https://metropolislyceum.nl/kennismaken/welkom-groep8ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Metropolis+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/metropolis-lyceum/",
+        "open_day_date": "11 maart 2027",
+        "details": [
+            "Noord (Meidoornweg 52)",
+            "16.00-19:00 uur",
+            "Open dag. Aanmelden via schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "vonk",
+        "name": "VONK",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vonk/index.html",
+        "school_website": "https://www.vonknh.nl/vmbo/Amsterdam/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VONK%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vonk-amsterdam/",
+        "open_day_date": "11 maart 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 40)",
+            "13:30 -15:30",
+            "Meeloopmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "huygens-college",
+        "name": "Huygens College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/huygens-college/index.html",
+        "school_website": "https://huygens-college.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Huygens+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/huygens-college/",
+        "open_day_date": "11 maart 2027",
+        "details": [
+            "West (2e Constantijn Huygensstraat 31)",
+            "17:00 – 20:00 uur",
+            "Open avond"
+        ]
+    },
+    {
+        "data_name": "college-de-meer",
+        "name": "College De Meer",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/college-de-meer/index.html",
+        "school_website": "https://collegedemeer.nl/overstap-groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=College+De+Meer%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/college-de-meer-amsterdam-radioweg/",
+        "open_day_date": "12 maart 2027",
+        "details": [
+            "Oost (Radioweg 56)",
+            "14:00 - 17:00 uur",
+            "Open dag."
+        ]
+    },
+    {
+        "data_name": "damstede-lyceum",
+        "name": "Damstede Lyceum",
+        "school_types": [
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/damstede-lyceum/index.html",
+        "school_website": "https://damstedelyceum.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Damstede+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/damstede-lyceum/",
+        "open_day_date": "16 maart 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 83)",
+            "16:00 - 18:30 uur",
+            "Open Dag"
+        ]
+    },
+    {
+        "data_name": "metropolis-lyceum",
+        "name": "Metropolis Lyceum",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/metropolis-lyceum/index.html",
+        "school_website": "https://metropolislyceum.nl/kennismaken/welkom-groep8ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Metropolis+Lyceum%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/metropolis-lyceum/",
+        "open_day_date": "16 maart 2027",
+        "details": [
+            "Noord (Meidoornweg 52)",
+            "15:30 -17:00 uur",
+            "Lesjesmiddag. Aanmelden via schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "marcanti-college",
+        "name": "Marcanti College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/marcanti-college/index.html",
+        "school_website": "https://marcanti.espritscholen.nl/informatie/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marcanti+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/marcanti-college/",
+        "open_day_date": "16 maart 2027",
+        "details": [
+            "West (Jan van Galenstraat 31)",
+            "16:00 -19:00 uur",
+            "Open dag"
+        ]
+    },
+    {
+        "data_name": "lumion",
+        "name": "Lumion",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo",
+            "vwo"
+        ],
+        "stadsdeel": "Nieuw-West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/lumion/index.html",
+        "school_website": "https://lumion.amsterdam/leerjaar-1#open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lumion%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/lumion/",
+        "open_day_date": "16 maart 2027",
+        "details": [
+            "Nieuw-West (Vlaardingenlaan 25, 1062 HM Amsterdam)",
+            "Lesjesmiddag. De aanmeldlink volgt later dit jaar."
+        ]
+    },
+    {
+        "data_name": "cburg-college",
+        "name": "Cburg College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/cburg-college/index.html",
+        "school_website": "https://cburgcollege.nl/groep-8/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Cburg+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/cburg-college/",
+        "open_day_date": "16 maart 2027",
+        "details": [
+            "Oost (Foekje Dillemastraat 116)",
+            "14:00-15:30 uur",
+            "Lesjesmiddag. Aanmelden mag via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "yuverta-vmbo-en-pro-amsterdam-oost",
+        "name": "Yuverta vmbo en pro Amsterdam-Oost",
+        "school_types": [
+            "praktijkonderwijs",
+            "vmbo-basis",
+            "vmbo-kader"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/yuverta-vmbo-pro-amsterdam-oost/index.html",
+        "school_website": "https://www.yuverta.nl/vmbo/scholen/vmbo-amsterdam-oost",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Yuverta+vmbo+en+pro+Amsterdam-Oost%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/yuverta-locatie-amsterdam-oost/",
+        "open_day_date": "17 maart 2027",
+        "details": [
+            "Oost (Archimedesplantsoen 87)",
+            "12:45 - 15:30",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "abc-noorderlicht",
+        "name": "ABC Noorderlicht",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/amsterdams-beroepscollege-noorderlicht/index.html",
+        "school_website": "https://www.abcnoorderlicht.nl/groep-78/aanmelden-open-dag-lesjesmiddag/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ABC+Noorderlicht%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/abc-noorderlicht/",
+        "open_day_date": "17 maart 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 14, 1025 KN Amsterdam)",
+            "14.00 - 16.15 uur",
+            "Lesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "bredero",
+        "name": "Bredero",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/bredero/index.html",
+        "school_website": "https://brederomavo.nl/nieuwe-leerlingen/welkom-groep-8-ers/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bredero%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/bredero/",
+        "open_day_date": "17 maart 2027",
+        "details": [
+            "Noord (Gare du Nord 5)",
+            "14:30 - 16:00 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "iedersland-college",
+        "name": "Iedersland College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/iedersland-college/index.html",
+        "school_website": "https://iederslandcollege.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Iedersland+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/iedersland-college/",
+        "open_day_date": "17 maart 2027",
+        "details": [
+            "West (Zekeringstraat 38 - 40 1014 BT Amsterdam)",
+            "14:00 -15:30 uur",
+            "Lesjesmiddag leerlingen groep 8"
+        ]
+    },
+    {
+        "data_name": "over-y-college",
+        "name": "Over-Y College",
+        "school_types": [
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/over-y-college/index.html",
+        "school_website": "https://www.over-y.nl/groep-8/open-dagen/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Over-Y+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/over-y-college/",
+        "open_day_date": "17 maart 2027",
+        "details": [
+            "Noord (Floraweg 170)",
+            "14:00 - 16:00 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebsite."
+        ]
+    },
+    {
+        "data_name": "vonk",
+        "name": "VONK",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-gemengde-leerweg",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "Noord",
+        "portal_url": "https://schoolkeuze020.nl/scholen/vonk/index.html",
+        "school_website": "https://www.vonknh.nl/vmbo/Amsterdam/Kennismaken",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=VONK%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/vonk-amsterdam/",
+        "open_day_date": "22 maart 2027",
+        "details": [
+            "Noord (Rode Kruisstraat 40)",
+            "18:30 -20:00",
+            "Informatieavond voor ouders"
+        ]
+    },
+    {
+        "data_name": "havo-de-hof",
+        "name": "Havo De Hof",
+        "school_types": [
+            "havo"
+        ],
+        "stadsdeel": "Oost",
+        "portal_url": "https://schoolkeuze020.nl/scholen/havo-de-hof/index.html",
+        "school_website": "https://havodehof.nl/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Havo+De+Hof%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/havo-de-hof/",
+        "open_day_date": "23 maart 2027",
+        "details": [
+            "Oost (Dapperstraat 315)",
+            "15:30 -19:30 uur",
+            "Informatieavond. verschillende tijdsloten."
+        ]
+    },
+    {
+        "data_name": "huygens-college",
+        "name": "Huygens College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/huygens-college/index.html",
+        "school_website": "https://huygens-college.nl/groep-8/",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Huygens+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/huygens-college/",
+        "open_day_date": "24 maart 2027",
+        "details": [
+            "West (2e Constantijn Huygensstraat 31)",
+            "15.00-16.30 uur",
+            "Lesjesmiddag"
+        ]
+    },
+    {
+        "data_name": "marcanti-college",
+        "name": "Marcanti College",
+        "school_types": [
+            "vmbo-basis",
+            "vmbo-kader",
+            "vmbo-theoretische-leerweg",
+            "havo"
+        ],
+        "stadsdeel": "West",
+        "portal_url": "https://schoolkeuze020.nl/scholen/marcanti-college/index.html",
+        "school_website": "https://marcanti.espritscholen.nl/informatie/open-dagen",
+        "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marcanti+College%2C+Amsterdam%2C+Netherlands",
+        "allecijfers_url": "https://allecijfers.nl/middelbare-school/marcanti-college/",
+        "open_day_date": "24 maart 2027",
+        "details": [
+            "West (Jan van Galenstraat 31)",
+            "15:00 - 16:30 uur",
+            "Lesjesmiddag. Aanmelden via de schoolwebste."
+        ]
+    }
+]
