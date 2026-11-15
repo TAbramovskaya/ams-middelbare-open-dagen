@@ -9,10 +9,6 @@ ALLECIJFERS_BASE_URL = (
 
 
 def get_portal_url(relative_url):
-    """
-    Convert a relative Schoolkeuze020 URL into an absolute URL.
-    """
-
     if not relative_url:
         return None
 
@@ -20,10 +16,6 @@ def get_portal_url(relative_url):
 
 
 def get_google_maps_url(school_name):
-    """
-    Generate a Google Maps search URL for a school.
-    """
-
     if not school_name:
         return None
 
@@ -38,10 +30,6 @@ def get_google_maps_url(school_name):
 
 
 def get_allecijfers_url(data_name):
-    """
-    Generate an AlleCijfers URL using the original data-name.
-    """
-
     if not data_name:
         return None
 

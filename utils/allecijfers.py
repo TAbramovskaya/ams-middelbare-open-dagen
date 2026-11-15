@@ -20,10 +20,6 @@ FAILURE_PLACEHOLDER = "nan/"
 
 
 def extract_slug_from_portal_url(portal_url):
-    """
-    Extract the school slug from a Schoolkeuze020 portal URL.
-    """
-
     if not portal_url:
         return None
 
@@ -37,10 +33,6 @@ def extract_slug_from_portal_url(portal_url):
 
 
 def generate_candidates(data_name, portal_url):
-    """
-    Generate possible AlleCijfers URL variations in priority order.
-    """
-
     portal_slug = extract_slug_from_portal_url(portal_url)
 
     slugs = [
@@ -50,7 +42,6 @@ def generate_candidates(data_name, portal_url):
         f"het-{portal_slug}" if portal_slug else None
     ]
 
-    # Remove empty and duplicate candidates while preserving order
     unique_slugs = list(dict.fromkeys(
         slug for slug in slugs if slug
     ))
@@ -62,10 +53,6 @@ def generate_candidates(data_name, portal_url):
 
 
 def is_valid_page(response):
-    """
-    Check whether the response looks like a valid school page.
-    """
-
     if response.status_code != 200:
         return False
 
@@ -108,10 +95,6 @@ def is_valid_page(response):
 
 
 def resolve_allecijfers_url(school, session):
-    """
-    Resolve an AlleCijfers URL using manual mappings or automatic search.
-    """
-
     school_name = school.get("name")
 
     # Skip schools explicitly excluded from AlleCijfers matching
@@ -120,7 +103,6 @@ def resolve_allecijfers_url(school, session):
 
     # Check manually configured URL mappings first
     if school_name in ALLECIJFERS_SUFFIX:
-
         suffix = ALLECIJFERS_SUFFIX[school_name]
 
         return urljoin(
@@ -136,7 +118,6 @@ def resolve_allecijfers_url(school, session):
 
     # Try each candidate until a valid page is found
     for url in candidates:
-
         try:
             response = session.get(
                 url,
@@ -154,12 +135,6 @@ def resolve_allecijfers_url(school, session):
 
 
 def resolve_all_schools(schools):
-    """
-    Resolve AlleCijfers URLs for all schools.
-
-    Returns failed and ignored schools separately.
-    """
-
     failed_schools = []
     ignored_schools = []
 
@@ -174,7 +149,7 @@ def resolve_all_schools(schools):
             # Handle explicitly ignored schools
             if school_name in IGNORE_SCHOOLS:
 
-                school["allecijfers_url"] = FAILURE_PLACEHOLDER
+                school["allecijfers_url"] = urljoin(ALLECIJFERS_BASE_URL, FAILURE_PLACEHOLDER)
 
                 ignored_schools.append({
                     "name": school_name,

@@ -11,10 +11,6 @@ from config import OUTPUT_FILE
 
 
 def save_schools(schools):
-    """
-    Save parsed school data into a JSON file.
-    """
-
     os.makedirs(
         os.path.dirname(OUTPUT_FILE),
         exist_ok=True
@@ -35,10 +31,6 @@ def save_schools(schools):
 
 
 def print_failed_schools(failed_schools):
-    """
-    Print schools that could not be matched on AlleCijfers.
-    """
-
     if not failed_schools:
         print("\nAll schools matched successfully!")
         return

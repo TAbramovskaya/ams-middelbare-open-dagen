@@ -44,8 +44,6 @@ def load_json(path):
 
 
 def authenticate():
-    """Authenticate using Google OAuth 2.0."""
-
     credentials_path = BASE_DIR / "credentials.json"
     token_path = BASE_DIR / "token.json"
 
@@ -73,8 +71,6 @@ def authenticate():
 
 
 def parse_date(date_string):
-    """Parse dates in Dutch format, e.g. 25 november 2026."""
-
     parts = date_string.strip().lower().split()
 
     if len(parts) != 3:
@@ -88,8 +84,6 @@ def parse_date(date_string):
 
 
 def get_time_range(details):
-    """Extract a time range from school details."""
-
     for detail in details:
         match = re.search(
             r"(\d{1,2}:\d{2})\s*-\s*(\d{1,2}:\d{2})",
@@ -103,16 +97,12 @@ def get_time_range(details):
 
 
 def filter_school_types(school):
-    """Keep only schools offering HAVO and/or VWO."""
-
     school_types = set(school.get("school_types", []))
 
     return sorted(school_types & TARGET_TYPES)
 
 
 def build_event(school, timezone):
-    """Convert a school record into a Google Calendar event."""
-
     event_date = parse_date(school["open_day_date"])
 
     matched_types = filter_school_types(school)
@@ -204,8 +194,6 @@ def build_event(school, timezone):
 
 
 def import_schools():
-    """Import eligible school events into Google Calendar."""
-
     config = load_json(BASE_DIR / "import_config.json")
 
     calendar_id = config["calendar_id"]
